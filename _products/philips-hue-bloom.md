@@ -1,4 +1,5 @@
 ---
+order: 51
 name: Philips Hue Bloom
 features:
 - smart_control

@@ -1,4 +1,5 @@
 ---
+order: 31
 name: Philips Hue White and Color 6.5W GU10 Starter Kit
 features:
 - smart_control

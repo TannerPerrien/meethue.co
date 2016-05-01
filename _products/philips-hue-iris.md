@@ -1,4 +1,5 @@
 ---
+order: 50
 name: Philips Hue Iris
 features:
 - smart_control

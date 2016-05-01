@@ -1,4 +1,5 @@
 ---
+order: 55
 name: Philips Hue LightStrip Plus
 features:
 - smart_control

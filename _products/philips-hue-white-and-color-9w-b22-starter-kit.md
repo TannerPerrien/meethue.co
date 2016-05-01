@@ -1,4 +1,5 @@
 ---
+order: 30
 name: Philips Hue White and Color 9W B22 Starter Kit
 features:
 - smart_control

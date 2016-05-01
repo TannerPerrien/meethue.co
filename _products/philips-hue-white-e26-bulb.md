@@ -1,4 +1,5 @@
 ---
+order: 80
 name: Philips Hue White E26 Bulb
 features:
 - smart_control

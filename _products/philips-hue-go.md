@@ -1,4 +1,5 @@
 ---
+order: 52
 name: Philips Hue Go
 features:
 - smart_control

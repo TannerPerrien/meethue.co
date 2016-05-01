@@ -1,4 +1,5 @@
 ---
+order: 25
 name: Philips Hue White and Color 9W E26 Starter kit
 features:
 - smart_control

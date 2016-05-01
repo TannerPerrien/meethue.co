@@ -29,7 +29,8 @@ layout: default
           </tr>
         </thead>
         <tbody>
-          {% for product in site.products %}
+          {% assign products = site.products | sort: 'order' %}
+          {% for product in products %}
           <tr>
             <td><p><a href="{{ product.url }}" data-toggle="popover" data-html="true" data-trigger="hover focus" title="{{ product.name }}" data-content="<div class='text-center'><img class='img-responsive' src='/images/products/{{ product.name | slugify }}.png' /></div>">{{ product.name }}</a></p></td>
             {% for feature in site.data.hue.features %}

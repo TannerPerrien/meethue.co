@@ -1,4 +1,5 @@
 ---
+order: 100
 name: Philips Hue Beyond
 features:
 - smart_control

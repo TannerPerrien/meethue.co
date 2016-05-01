@@ -1,4 +1,5 @@
 ---
+order: 82
 name: Philips Hue white and color ambiance - Extension Bulbs
 features:
 - smart_control

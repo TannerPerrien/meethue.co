@@ -1,4 +1,5 @@
 ---
+order: 100
 name: Philips Hue Phoenix
 features:
 - smart_control

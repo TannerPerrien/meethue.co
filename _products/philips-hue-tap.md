@@ -1,4 +1,5 @@
 ---
+order: 60
 name: Philips Hue Tap
 features:
 - smart_control

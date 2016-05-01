@@ -1,4 +1,5 @@
 ---
+order: 56
 name: Philips Hue LightStrips
 features:
 - smart_control

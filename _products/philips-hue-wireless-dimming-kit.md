@@ -1,4 +1,5 @@
 ---
+order: 27
 name: Philips Hue Wireless Dimming Kit
 features:
 - smart_control

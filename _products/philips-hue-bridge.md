@@ -1,4 +1,5 @@
 ---
+order: 10
 name: Philips Hue Bridge
 features:
 - smart_control

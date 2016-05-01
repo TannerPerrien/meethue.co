@@ -1,4 +1,5 @@
 ---
+order: 61
 name: Philips Hue Dimmer Switch
 features:
 - dimming
