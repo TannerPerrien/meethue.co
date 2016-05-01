@@ -1,0 +1,42 @@
+@include embed-font('philips-icons', '/css/fonts/philips-icons');
+
+[class^="hue-icon"], [class*=" hue-icon"] {
+    font-family: 'philips-icons';
+    line-height: 1;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+}
+
+.hue-icon-checkmark:before {
+  content: "\e657";
+}
+.hue-icon-ambiance:before {
+  content: "\e602";
+}
+.hue-icon-smart_control:before {
+  content: "\e603";
+}
+.hue-icon-sync_movies:before {
+  content: "\e608";
+}
+.hue-icon-sync_music:before {
+  content: "\e609";
+}
+.hue-icon-automation:before {
+  content: "\e60a";
+}
+.hue-icon-paint:before {
+  content: "\e630";
+}
+.hue-icon-wellbeing:before {
+  content: "\e634";
+}
+.hue-icon-dimming:before {
+  content: "\e635";
+}
+.hue-icon-security:before {
+  content: "\e636";
+}
+.hue-icon-schedules:before {
+  content: "\e637";
+}

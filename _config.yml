@@ -1,0 +1,24 @@
+# Site settings
+title: Meet Hue
+email: 
+description: >
+  Learn everything there is to know about Hue
+baseurl: ""
+url: "http://meethue.co"
+twitter_username:
+github_username:
+
+# Build settings
+markdown: kramdown
+
+collections:
+  products:
+    output: true
+    permalink: /products/:path/
+
+defaults:
+  -
+    scope:
+      collection: products
+    values:
+      layout: product

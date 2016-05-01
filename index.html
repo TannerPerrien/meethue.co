@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+<div class="row">
+  <div class="col-md-12">
+    <div class="page-header">
+      <h1><strong>What Is</strong> <small>Hue</small></h1>
+    </div>
+    <p>
+      Hue is your personal, smart, wireless lighting system! Hue lights can adapt to your surroundings, mood, and atmosphere! You can define and control preset scenes, including brightness levels, colors, and color temperature! Most Hue Products are connected via the Bridge that acts as the brain of the system. Switches, controls, apps, and other smart home systems can interact with the Bridge, making Hue completely integrated with your home.
+    </p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-12">
+    <div class="page-header">
+      <h1><strong>Compare</strong> <small>Hue Products</small></h1>
+    </div>
+    <div class="table-responsive">
+      <table class="table hue-comparison">
+        <thead>
+          <tr>
+            <th></th>
+            {% for feature in site.data.hue.features %}
+              <th><p><span class="hue-icon-{{ feature.id }}"></span>{{ feature.name }}</p></th>
+            {% endfor %}
+          </tr>
+        </thead>
+        <tbody>
+          {% for product in site.products %}
+          <tr>
+            <td><p><a href="{{ product.url }}">{{ product.name }}</a></p></td>
+            {% for feature in site.data.hue.features %}
+              <td>{% if product.features contains feature.id %}<span class="glyphicon glyphicon-ok-circle"></span>{% endif %}</td>
+            {% endfor %}
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,97 @@
+@mixin embed-font($font-name, $font-filepath-and-name){
+  @font-face {
+    font-family: $font-name;
+    src: url($font-filepath-and-name+".eot"); /* IE9 Compat Modes */
+    src: url($font-filepath-and-name+".eot?#iefix") format('embedded-opentype'), /* IE6-IE8 */
+         url($font-filepath-and-name+".woff") format('woff'), /* Modern Browsers */
+         url($font-filepath-and-name+".ttf")  format('truetype'), /* Safari, Android, iOS */
+         url($font-filepath-and-name+".svg#svgFontName") format('svg'); /* Legacy iOS */
+    }
+}
+
+@import "philips";
+
+$icon-font-path: '/fonts/bootstrap/';
+@import "bootstrap";
+
+.table-borderless > thead > tr > th,
+.table-borderless > thead > tr > td {
+    border: 0;
+}
+
+.hue-comparison > thead > tr > th {
+    font-weight: normal;
+    vertical-align: top;
+}
+
+.hue-comparison p {
+    font-size: 1.2rem;
+    text-align: center;
+    margin: 0px;
+}
+
+.hue-comparison th p {
+    word-wrap: break-word;
+}
+
+.hue-comparison th span {
+    height: 0.6rem;
+    font-size: 2.2rem;
+    margin: 0px;
+}
+
+.hue-comparison th span:after {
+    content: '\A';
+    white-space: pre;
+}
+
+.hue-comparison td {
+    vertical-align: middle;
+    text-align: center;
+}
+
+.hue-comparison td span {
+    color: #232323;
+}
+
+.hue-comparison td:empty:before {
+    content: "X";
+    font-size: 1rem;
+}
+
+.hue-property-icon {
+    border-radius: 100%;
+    background: #EEAF00;
+    padding: 0.5rem;
+    margin: auto;
+    display: table;
+    width: 2rem;
+    height: 2rem;
+}
+
+.hue-feature-list span {
+    font-weight: normal;
+}
+
+.hue-feature-list li.disabled {
+    color: #CCC;
+}
+
+.hue-feature-list li.disabled:hover {
+    color: #DDD;
+}
+
+.hue-feature-list li.enabled {
+    color: $brand-warning;
+}
+
+.hue-feature-list li.enabled:hover {
+    color: #000;
+}
+
+.block-list {
+    width: 2.5rem;
+    text-align: center;
+    display: inline-block;
+    margin-right: 3rem;
+}

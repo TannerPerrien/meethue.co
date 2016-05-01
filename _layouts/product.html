@@ -1,0 +1,86 @@
+---
+layout: default
+---
+
+<div class="page-header">
+    <h1>{{ page.name }}</h1>
+</div>
+
+<div class="row">
+  <div class="col-sm-6">
+    <img class="img-responsive" src="/images/products/{{ page.name | slugify }}.png" />
+    <div class="row">
+      <div class="col-sm-12">
+        <ul class="list-inline hue-feature-list">
+          <li><h3><small>Features:</small></h3></li>
+          {% for feature in site.data.hue.features %}
+            {% if page.features contains feature.id %}
+              <li class="enabled" data-toggle="tooltip" title="{{ feature.name }}">
+                <span class="hue-icon-{{ feature.id }}"></span>
+              </li>
+            {% else %}
+              <li class="disabled" data-toggle="tooltip" title="{{ feature.name }}">
+                <span class="hue-icon-{{ feature.id }}"></span>
+              </li>
+            {% endif %}
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-6">
+    <h2>Overview</h2>
+    <p>{{ page.description }}</p>
+    <div class="text-center">
+      <a href="{{ page.purchaseUrl }}" class="btn btn-warning btn-lg">More Details</a>
+    </div>
+  </div>
+</div>
+
+<h2>Specs</h2>
+<div class="row">
+  {% for spec in page.specs %}
+    <div class="col-sm-4">
+      <h3>{{ spec.name }}</h3>
+      <ul>
+        {% for item in spec.items %}
+          <li>{{ item }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+  {% endfor %}
+</div>
+
+<h2>Discussion</h2>
+<div id="disqus_thread"></div>
+<script>
+var disqus_config = function () {
+  this.page.url = "{{ site.url }}{{ page.url }}";
+  this.page.identifier = "product-{{ page.name | slugify }}";
+};
+(function() {
+var d = document, s = d.createElement('script');
+
+s.src = '//meethue.disqus.com/embed.js';
+
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+<!-- <div class="row">
+  <div class="col-sm-8">
+   
+  </div>
+  <div class="col-sm-4">
+    <ul class="list-unstyled hue-feature-list">
+        {% for feature in site.data.hue.features %}
+          {% if page.features contains feature.id %}
+            <li><span class="hue-icon-{{ feature.id }}"></span>{{ feature.name }}</li>
+          {% endif %}
+        {% endfor %}
+    </ul>
+  </div>
+</div> -->
