@@ -15,10 +15,18 @@ collections:
   products:
     output: true
     permalink: /products/:path/
+  guides:
+    output: true
+    permalink: /guides/:path/
 
 defaults:
   -
     scope:
-      collection: products
+      type: products
     values:
       layout: product
+  -
+    scope:
+      type: guides
+    values:
+      layout: guide

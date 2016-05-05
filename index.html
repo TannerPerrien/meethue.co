@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 <div class="row">
   <div class="col-md-12">
     <div class="page-header">
@@ -10,6 +9,19 @@ layout: default
     <p>
       Hue is your personal, smart, wireless lighting system! Hue lights can adapt to your surroundings, mood, and atmosphere! You can define and control preset scenes, including brightness levels, colors, and color temperature! Most Hue Products are connected via the Bridge that acts as the brain of the system. Switches, controls, apps, and other smart home systems can interact with the Bridge, making Hue completely integrated with your home.
     </p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-12">
+    <div class="page-header">
+      <h1><strong>Guides</strong> <small>to light your home</small></h1>
+    </div>
+    <ul>
+    {% for guide in site.guides %}
+      <li><a href="{{ guide.url }}" title=" {{ guide.title }}">{{ guide.title }}</a></li>
+    {% endfor %}
+    </ul>
   </div>
 </div>
 

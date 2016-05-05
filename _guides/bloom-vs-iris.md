@@ -1,0 +1,79 @@
+---
+title:  Bloom vs Iris - Splashing color on your wall
+date:   2016-05-05
+excerpt: Which one is best for you? The Philips Hue Bloom and Iris are confusingly similar. Both of these multi-color light fixtures paint your walls with color.
+---
+
+{% assign products = site.products | where:"name", "Philips Hue Bloom" %}
+{% assign bloom = products[0] %}
+{% assign products = site.products | where:"name", "Philips Hue Iris" %}
+{% assign iris = products[0] %}
+{% assign products = site.products | where:"name", "Philips Hue Bridge" %}
+{% assign bridge = products[0] %}
+
+
+
+The Philips Hue [Bloom][] and [Iris][] are confusingly similar. Both of these multi-color light fixtures paint your walls with color, but which one is best for you?
+{: .lead}
+
+<img src="/images/guides/bloom-v-iris.png" class="img-responsive" alt="Philips Hue - Bloom vs Iris" />
+
+### Multiple Models
+
+A little research may leave you utterly confused over which Bloom or Iris is right for you. It turns out that philips showcases many different models. Some are black while others are white. Thankfully these can be broken down into two major categories: one that requires the [Hue Bridge][bridge] to function and one that does not.
+
+The "[Friends of Hue][friends-of-hue]" labeled lights **do** integrate with your Hue Bridge and and the rest of your Hue system and are controlled with your phone via the Hue mobile app.
+
+The "[Living Colors][living-colors]" labeled lights **do not** integrate with the Hue ecosystem and are operated independently with a battery powered remote (included) rather than your phone.
+
+<strong>Heads Up!</strong> You may find that some product listings do not have the "Friends of Hue" designation, so double check the details of the item you are purchasing to ensure you receive the light you are expecting!
+{: .alert .alert-info}
+
+<div class="row">
+<div class="col-sm-12">
+<div class="table-responsive" markdown="1">
+| Iris | "Friends of Hue" | "Living Colors"
+|-|-|-
+| Works with other Hue lights | Yes | No
+| Remote | Yes, via the Hue mobile app | Yes, battery powered physical remote (cannot control with phone).
+{: .table .table-hover .table-striped .table-bordered}
+</div>
+</div>
+</div>
+
+### Comparison
+
+Which smart light is better for you: Bloom or Iris? These contenders have two noteable differences: **brightness** and **concealability**.
+
+#### Brightness
+
+The brightness of the Bloom is nearly half of what the Iris projects. If you want to highlight a small accent wall or piece of art, the Bloom will do a fine job. On the other hand, if you want to colorize a larger wall with one of 16 million colors, the higher brightness output of the Iris is more suited for you.
+
+#### Concealability
+
+The shells on these lights are considerably different. The Bloom is discreet while the Iris is bulbous and flashy. If you want the fixture to blend in, the Bloom is is around 30% smaller than the Iris and has its power cord positioned towards the light/subject so that it is easier to conceal. The Iris on the other hand has the power cord positioned away from the light and in the way.
+
+Bottom line: If you're looking for a light that is subtle and easier to conceal, and you don't need to hit a huge wall, go with the Bloom. If you need to put a larger splash of color on the wall or you want a light fixture that stands out, the Iris is for you!
+
+<div class="row">
+<div class="col-sm-12">
+<div class="table-responsive" markdown="1">
+| | Bloom | Iris
+|-|-|-
+| Best for accenting | Corner/Item | Wall
+| Design | Discreet | Bulbous
+| Concealable | More so  | Less so
+| Brightness | 120 Lumens | 210 Lumens (brighter)
+| Bulb Type | 8-Watt LED | 10-Watt LED
+| Dimensions (W/H/L Rounded) | 5" x 4" x 5" | 9" x 6" x 7"
+{: .table .table-hover .table-striped .table-bordered}
+</div>
+</div>
+</div>
+
+[bloom]: {{ bloom.purchaseUrl }} "Philips Hue Bloom"
+[iris]: {{ iris.purchaseUrl }} "Philips Hue Iris"
+[iris-personal]: http://amzn.to/1T1bNct "Philips Hue Iris (personal)"
+[bridge]: {{ bridge.purchaseUrl }} "Philips Hue Bridge"
+[friends-of-hue]: http://www.mea.philips.com/c-m-li/choose-a-fixture/friends-of-hue/latest "Philips Hue - Friends of Hue"
+[living-colors]: http://www.mea.philips.com/c-m-li/choose-a-fixture/livingcolors/latest "Philips Hue - Living Colors"
