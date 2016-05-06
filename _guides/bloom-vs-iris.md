@@ -18,6 +18,8 @@ The Philips Hue [Bloom][] and [Iris][] are confusingly similar. Both of these mu
 
 <img src="/images/guides/bloom-v-iris.png" class="img-responsive" alt="Philips Hue - Bloom vs Iris" />
 
+<small>Philips Hue Iris (left) and Bloom (right)</small>
+
 ### Multiple Models
 
 A little research may leave you utterly confused over which Bloom or Iris is right for you. Philips' lineup of different models can be broken down into two major categories: one that requires the [Hue Bridge][bridge] to function and one that does not.
@@ -26,7 +28,7 @@ The "[Friends of Hue][friends-of-hue]" labeled lights **do** integrate with your
 
 The "[Living Colors][living-colors]" labeled lights **do not** integrate with the Hue ecosystem and are operated independently with a battery powered remote (included) rather than your phone.
 
-<strong>Heads Up!</strong> You may find that some product listings do not have the "Friends of Hue" designation, so double check the details of the item you are purchasing to ensure you receive the light you are expecting!
+<strong>Heads Up!</strong> Some product listings do not have the "Friends of Hue" designation. This does not mean it is a standalone fixture. The product description should say one way or the other if it integrates with other Hue Lights.
 {: .alert .alert-info}
 
 <div class="row">
@@ -40,6 +42,8 @@ The "[Living Colors][living-colors]" labeled lights **do not** integrate with th
 </div>
 </div>
 </div>
+
+<small class="visible-xs-block">(This comparison table scrolls left/right on small screens)</small>
 
 ### Comparison
 
@@ -70,6 +74,8 @@ Bottom line: If you're looking for a light that is subtle and easier to conceal,
 </div>
 </div>
 </div>
+
+<small class="visible-xs-block">(This comparison table scrolls left/right on small screens)</small>
 
 [bloom]: {{ bloom.purchaseUrl }} "Philips Hue Bloom"
 [iris]: {{ iris.purchaseUrl }} "Philips Hue Iris"
