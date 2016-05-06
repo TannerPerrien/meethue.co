@@ -20,9 +20,9 @@ The Philips Hue [Bloom][] and [Iris][] are confusingly similar. Both of these mu
 
 ### Multiple Models
 
-A little research may leave you utterly confused over which Bloom or Iris is right for you. It turns out that philips showcases many different models. Some are black while others are white. Thankfully these can be broken down into two major categories: one that requires the [Hue Bridge][bridge] to function and one that does not.
+A little research may leave you utterly confused over which Bloom or Iris is right for you. Philips' lineup of different models can be broken down into two major categories: one that requires the [Hue Bridge][bridge] to function and one that does not.
 
-The "[Friends of Hue][friends-of-hue]" labeled lights **do** integrate with your Hue Bridge and and the rest of your Hue system and are controlled with your phone via the Hue mobile app.
+The "[Friends of Hue][friends-of-hue]" labeled lights **do** integrate with your Hue Bridge along with the rest of your Hue system and are controlled with your phone via the Hue mobile app.
 
 The "[Living Colors][living-colors]" labeled lights **do not** integrate with the Hue ecosystem and are operated independently with a battery powered remote (included) rather than your phone.
 
@@ -32,7 +32,7 @@ The "[Living Colors][living-colors]" labeled lights **do not** integrate with th
 <div class="row">
 <div class="col-sm-12">
 <div class="table-responsive" markdown="1">
-| Iris | "Friends of Hue" | "Living Colors"
+| | "Friends of Hue" | "Living Colors"
 |-|-|-
 | Works with other Hue lights | Yes | No
 | Remote | Yes, via the Hue mobile app | Yes, battery powered physical remote (cannot control with phone).
@@ -51,7 +51,7 @@ The brightness of the Bloom is nearly half of what the Iris projects. If you wan
 
 #### Concealability
 
-The shells on these lights are considerably different. The Bloom is discreet while the Iris is bulbous and flashy. If you want the fixture to blend in, the Bloom is is around 30% smaller than the Iris and has its power cord positioned towards the light/subject so that it is easier to conceal. The Iris on the other hand has the power cord positioned away from the light and in the way.
+The shells on these lights are considerably different. The Bloom is discreet while the Iris is bulbous and flashy. If you want the fixture to blend in, the Bloom is around 30% smaller than the Iris and has its power cord positioned towards the light/subject so that it is easier to conceal. The Iris on the other hand has the power cord positioned away from the light and in the way.
 
 Bottom line: If you're looking for a light that is subtle and easier to conceal, and you don't need to hit a huge wall, go with the Bloom. If you need to put a larger splash of color on the wall or you want a light fixture that stands out, the Iris is for you!
 
