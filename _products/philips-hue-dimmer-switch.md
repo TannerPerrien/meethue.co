@@ -29,4 +29,8 @@ specs:
 - name: Guarantee
   items:
   - 2 years
+title: Philips Hue Dimmer Switch
+excerpt: A battery-powered dimmer for the Philips Hue system that controls your preferred
+  light setting that you have configured in the Philips Hue app, without the use of
+  your smart device.
 ---

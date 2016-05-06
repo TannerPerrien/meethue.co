@@ -32,4 +32,7 @@ specs:
   - 'W: 0.43 in'
   - 'H: 0.11 in'
   - 'L: 78.7 in'
+title: Philips Hue LightStrips
+excerpt: Light where you’d never expect it. Bend, shape and cut. Attach Philips Hue
+  lightstrip anywhere for a beautiful glow of colored accent lighting.
 ---

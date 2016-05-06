@@ -32,4 +32,7 @@ specs:
   items:
   - 'Lifetime: 12,000 hrs'
   - Software upgradeable
+title: Philips Hue Bloom
+excerpt: An award-winning lamp designed to create indirect ambient lighting, Philips
+  Hue bloom stunningly projects beautiful colors and it blends in with any interior.
 ---

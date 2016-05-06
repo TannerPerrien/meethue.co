@@ -45,4 +45,7 @@ specs:
   items:
   - 80 in/po base strip
   - 1 power adapter
+title: Philips Hue LightStrip Plus
+excerpt: The most flexible light source imaginable. Shape it, attach it to any solid
+  surface and extend it up to 33 feet by adding 40 inch extensions.
 ---

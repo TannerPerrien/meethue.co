@@ -27,4 +27,7 @@ specs:
 - name: Guarantee
   items:
   - 2 years
+title: Philips Hue Tap
+excerpt: The world's first wireless smart switch that controls your Philips Hue lights,
+  powered by your touch.
 ---

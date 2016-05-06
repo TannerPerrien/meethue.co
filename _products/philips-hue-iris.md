@@ -32,4 +32,7 @@ specs:
   items:
   - 'Lifetime: 12,000 hrs'
   - Software upgradeable
+title: Philips Hue Iris
+excerpt: A stylish lamp that sits on your desk, your shelf or the floor and washes
+  your walls with beautiful colored light.
 ---

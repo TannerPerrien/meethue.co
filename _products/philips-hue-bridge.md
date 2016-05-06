@@ -34,4 +34,6 @@ specs:
   - 'Operational temperature: 32°F – 104°F'
   - 'Operational humidity: 0% < H < 90%'
   - Non-condensing
+title: Philips Hue Bridge
+excerpt: Create your very own Philips Hue system, exactly the way you like it.
 ---

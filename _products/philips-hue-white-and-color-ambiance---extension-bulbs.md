@@ -43,4 +43,7 @@ specs:
   - 'All shades of white, from warm to cold color temperatures: CCT range 2000-6500K'
   - Dimming only via RF down to 5% (no external dimmer)
   - Beam angle –160° ± 20°
+title: Philips Hue white and color ambiance - Extension Bulbs
+excerpt: Include a Philips Hue white and color ambiance bulb in your Philips Hue system
+  and experience high quality white and colored light that offers you endless possibilities.
 ---

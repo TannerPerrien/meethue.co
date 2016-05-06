@@ -43,4 +43,7 @@ specs:
   - All shades of white, from warm to cold color temperatures
   - Dimming only via RF down to 5% (no external dimmer)
   - Beam angle –160° ± 20°
+title: Philips Hue White and Color 9W B22 Starter Kit
+excerpt: Get started with Philips Hue white and color ambiance bulbs and experience
+  high quality white and colored light that offers you endless possibilities.
 ---

@@ -41,4 +41,8 @@ specs:
   - Non–replaceable
   - Up to 3 hours of light
   - 'Charging time: 1.5 hours'
+title: Philips Hue Go
+excerpt: The smart portable light that lets you light any moment, anywhere. Set the
+  mood via the control on the product itself or use the Philips Hue app on your smart
+  device.
 ---

@@ -33,4 +33,7 @@ specs:
   - 1x bridge
   - 1x Ethernet cable
   - 1x power adapter
+title: Philips Hue White E26 Starter Kit
+excerpt: Get started with Philips Hue white bulbs and experience peace of mind by
+  controlling your lights wherever you are.
 ---

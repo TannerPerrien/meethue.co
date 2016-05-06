@@ -37,4 +37,8 @@ specs:
   - Class II
   - 'Ø: 11.8in'
   - 'H: 12.7in'
+title: Philips Hue Phoenix
+excerpt: Set the right ambiance for any moment. Philips Hue phoenix produces a beautiful
+  range of white light that can be changed from warm to cool white, and it can be
+  brightened and dimmed.
 ---

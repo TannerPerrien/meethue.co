@@ -32,4 +32,7 @@ specs:
   - 'Operational temperature: 14°F- 113°F'
   - 'Operational humidity: 5% < H < 95%'
   - Non-condensing
+title: Philips Hue White E26 Bulb
+excerpt: Include a Philips Hue white bulb in your Philips Hue system and experience
+  high quality white light that you can dim smoothly.
 ---

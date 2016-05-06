@@ -40,4 +40,7 @@ specs:
   - IFTTT
   - Light Duo (up and down light module)
   - Philips Hue Connected
+title: Philips Hue Beyond
+excerpt: Iconic shaped lights with LightDuo technology that combine functional and
+  mood lighting in one award-winning design.
 ---

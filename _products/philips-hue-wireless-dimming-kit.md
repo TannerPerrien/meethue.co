@@ -30,4 +30,7 @@ specs:
 - name: Guarantee
   items:
   - 2 years
+title: Philips Hue Wireless Dimming Kit
+excerpt: The perfect pair. A clever wireless switch that works directly out of the
+  box and a Philips Hue white lamp. No wires, no electrician, no installation needed.
 ---
