@@ -18,7 +18,7 @@ Looking for a Hue starter kit and confused by the different bulb types? Not sure
 
 <img src="/images/guides/light-bulb-types.png" class="img-responsive" alt="Light Bulb Types - E26, GU10, B22" />
 
-<small>E26 (left), GU10 (center), B22 (right)</small>
+<small>White E26 (left), GU10 (center), B22 (right)</small>
 
 ### E26 - Standard US bulb
 
