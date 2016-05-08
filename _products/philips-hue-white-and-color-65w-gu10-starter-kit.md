@@ -14,7 +14,7 @@ features:
 - sync_movies
 description: Get started with Philips Hue white and color ambiance bulbs and experience
   high quality white and colored light that offers you endless possibilities.
-purchaseUrl: ''
+purchaseUrl: http://amzn.to/1NnbGJp
 specs:
 - name: Bulb
   items:
