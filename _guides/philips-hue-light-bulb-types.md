@@ -31,7 +31,7 @@ Get the [Color E26 Starter Kit][e26c] or [White E26 Starter Kit][e26w].
 
 Get the [GU10 Starter Kit][gu10]
 
-> A multifaceted reflector (often abbreviated MR) light bulb is a reflector housing format for halogen as well as some LED and fluorescent lamps. MR lamps were originally designed for use in slide projectors, but see use in residential lighting and retail lighting as well. They are suited to applications that require directional lighting such as track lighting, recessed ceiling lights, desk lamps, pendant fixtures, landscape lighting, retail display lighting, and bicycle headlights.
+> A multifaceted reflector (often abbreviated MR) light bulb is a reflector housing format for halogen as well as some LED and fluorescent lamps. MR lamps were originally designed for use in slide projectors, but see use in residential lighting and retail lighting as well. They are suited to applications that require directional lighting such as **track lighting, recessed ceiling lights, desk lamps, pendant fixtures, landscape lighting, retail display lighting, and bicycle headlights.**
 >
 > GU10 is a bi-pin connector designation. A common derivative of the MR housing is GU10 (G for glass) which is a lamp cap fitting format created by Havells Sylvania in 1997. GU10 is distinguished from the MR lamps by the U-shaped ceramic base mount with a 10 mm (pin center-to-center distance) 2-pin bayonet mount and operating under mains voltage rather than lower voltage.
 > <footer>Wikipedia: <cite title="Multifaceted reflector" markdown="1">[Multifaceted reflector][wiki-multifaceted-reflector]</cite></footer>
