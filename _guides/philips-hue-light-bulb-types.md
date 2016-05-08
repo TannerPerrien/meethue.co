@@ -13,7 +13,7 @@ excerpt: E26, GU10, or B22? Remove confusion and quickly discover which Hue bulb
 {% assign products = site.products | where:"name", "Philips Hue White and Color 9W B22 Starter Kit" %}
 {% assign b22 = products[0] %}
 
-Looking for a Hue starter kit and confused by the different bulb types? Not sure if your lamps are compatible with [E26c][], [GU10][], or [B22][]? This guide will clear that up real fast! Let's look at what Wikipedia has to say about each of these.
+Looking for a Hue starter kit and confused by the different bulb types? Not sure if your lamps are compatible with [E26][e26c], [GU10][], or [B22][]? This guide will clear that up real fast! Let's look at what Wikipedia has to say about each of these.
 {: .lead}
 
 <img src="/images/guides/light-bulb-types.png" class="img-responsive" alt="Light Bulb Types - E26, GU10, B22" />
