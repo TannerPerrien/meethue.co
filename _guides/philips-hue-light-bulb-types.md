@@ -1,24 +1,28 @@
 ---
 title: Philips Hue Light Bulb Types
 date: 2016-05-07
-excerpt: E26, GU10, or B22? Quickly discover which Hue bulb types are compatible with your light fixtures in this Philips Hue guide.
+excerpt: E26, GU10, or B22? Remove confusion and quickly discover which Hue bulb types are compatible with your light fixtures in this Philips Hue guide.
 ---
 
 {% assign products = site.products | where:"name", "Philips Hue White and Color 9W E26 Starter kit" %}
-{% assign e26 = products[0] %}
+{% assign e26c = products[0] %}
+{% assign products = site.products | where:"name", "Philips Hue White E26 Starter Kit" %}
+{% assign e26w = products[0] %}
 {% assign products = site.products | where:"name", "Philips Hue White and Color 6.5W GU10 Starter Kit" %}
 {% assign gu10 = products[0] %}
 {% assign products = site.products | where:"name", "Philips Hue White and Color 9W B22 Starter Kit" %}
 {% assign b22 = products[0] %}
 
-Looking for a Hue starter kit and confused by the different bulb types? Not sure if your lamps are compatible with [E26][], [GU10][], or [B22][]? This guide will clear that up real fast! Let's look at what Wikipedia has to say about each of these.
+Looking for a Hue starter kit and confused by the different bulb types? Not sure if your lamps are compatible with [E26c][], [GU10][], or [B22][]? This guide will clear that up real fast! Let's look at what Wikipedia has to say about each of these.
 {: .lead}
 
-<img src="/images/guides/light-bulb-types.png" class="img-responsive" alt="Philips Hue - Light Bulb Types" />
+<img src="/images/guides/light-bulb-types.png" class="img-responsive" alt="Light Bulb Types - E26, GU10, B22" />
+
+<small>E26 (left), GU10 (center), B22 (right)</small>
 
 ### E26 - Standard US bulb
 
-Get the [E26 Starter Kit][e26]. 
+Get the [Color E26 Starter Kit][e26c] or [White E26 Starter Kit][e26w]. 
 
 > The A-series light bulb is the "classic" type of light bulb that has been the most commonly used type for general-purpose lighting applications since the early 20th century. It has a pear-like shape and an [Edison screw base][wiki-edison-screw].
 > <footer>Wikipedia: <cite title="A-series light bulb" markdown="1">[A-series light bulb][wiki-a-series]</cite></footer>
@@ -42,7 +46,8 @@ Get the [B22 Starter Kit][b22]
 
 [gu10]: {{ gu10.purchaseUrl }} "Philips Hue White and Color GU10"
 [b22]: {{ b22.purchaseUrl }} "Philips Hue White and Color B22"
-[e26]: {{ e26.purchaseUrl }} "Philips Hue White and Color E26"
+[e26c]: {{ e26c.purchaseUrl }} "Philips Hue White and Color E26"
+[e26w]: {{ e26w.purchaseUrl }} "Philips Hue White E26 Starter Kit"
 [wiki-a-series]: https://en.wikipedia.org/wiki/A-series_light_bulb "A-series light bulb"
 [wiki-edison-screw]: https://en.wikipedia.org/wiki/Edison_screw "Edison screw"
 [wiki-multifaceted-reflector]: https://en.wikipedia.org/wiki/Multifaceted_reflector "Multifaceted reflector"
