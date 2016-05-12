@@ -18,6 +18,9 @@ collections:
   guides:
     output: true
     permalink: /guides/:path/
+  hacks:
+    output: true
+    permalink: /hacks/:path/
 
 defaults:
   -
@@ -30,3 +33,8 @@ defaults:
       type: guides
     values:
       layout: guide
+  -
+    scope:
+      type: hacks
+    values:
+      layout: hack

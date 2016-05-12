@@ -35,6 +35,24 @@ excerpt: Learn about Philips Hue lights. Read expert advice, comparison guides, 
 <div class="row">
   <div class="col-md-12">
     <div class="page-header">
+      <h1><strong>Hacks</strong> <small>to have fun with Hue</small></h1>
+    </div>
+    {% for hack in site.hacks %}
+    <div class="col-md-6">
+      <div class="list-group">
+        <a href="{{ hack.url }}" class="list-group-item list-group-item-danger">
+          <h4 class="list-group-item-heading">{{ hack.title }}</h4>
+          <p class="list-group-item-text">{{ hack.excerpt }}</p>
+        </a>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-12">
+    <div class="page-header">
       <h1><strong>Compare</strong> <small>Hue Products</small></h1>
     </div>
     <div class="table-responsive">
