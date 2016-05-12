@@ -45,7 +45,7 @@ The "[Living Colors][living-colors]" labeled lights **do not** integrate with th
 
 ### Comparison
 
-Which smart light is better for you: Bloom or Iris? These contenders have two noteable differences: **brightness** and **concealability**.
+Which smart light is better for you: Bloom or Iris? These contenders have two noteable [differences][juniper]: **brightness** and **concealability**.
 
 #### Brightness
 
@@ -55,7 +55,7 @@ The brightness of the Bloom is nearly half of what the Iris projects. If you wan
 
 The shells on these lights are considerably different. The Bloom is discreet while the Iris is bulbous and flashy. If you want the fixture to blend in, the Bloom is around 30% smaller than the Iris and has its power cord positioned towards the light/subject so that it is easier to conceal. The Iris on the other hand has the power cord positioned away from the light and in the way.
 
-Bottom line: If you're looking for a light that is subtle and easier to conceal, and you don't need to hit a huge wall, go with the Bloom. If you need to put a larger splash of color on the wall or you want a light fixture that stands out, the Iris is for you!
+Bottom line: If you're looking for a light that is subtle and easy to conceal, and you don't need to hit a huge wall, go with the Bloom. If you need to put a larger splash of color on the wall or you want a light fixture that stands out, the Iris is for you! If you're looking for a second opinion, see this [discussion on reddit][reddit].
 
 <div class="row">
 <div class="col-sm-12">
@@ -81,3 +81,5 @@ Bottom line: If you're looking for a light that is subtle and easier to conceal,
 [bridge]: {{ bridge.purchaseUrl }} "Philips Hue Bridge"
 [friends-of-hue]: http://www.mea.philips.com/c-m-li/choose-a-fixture/friends-of-hue/latest "Philips Hue - Friends of Hue"
 [living-colors]: http://www.mea.philips.com/c-m-li/choose-a-fixture/livingcolors/latest "Philips Hue - Living Colors"
+[reddit]: https://www.reddit.com/r/huelights/comments/2urejj/opinion_bloom_vs_iris/ "Reddit - bloom/iris opinion"
+[juniper]: http://www.junipermonkeys.com/blog/philips-iris-and-bloom "Juniper Monkeys - iris and bloom"
