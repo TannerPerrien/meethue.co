@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+<div class="page-header">
+    <h1>{{ page.name }}</h1>
+</div>
+
+<div class="row">
+  <div class="col-sm-5">
+    <p class="lead">{{ page.description }}</p>
+    <div class="text-center">
+      <a href="{{ page.softwareUrl }}" class="btn btn-primary btn-lg">More Details</a>
+    </div>
+  </div>
+  <div class="col-sm-3 text-center">
+    <a href="{{ page.softwareUrl }}">
+      <img src="/images/software/{{ page.name | slugify }}.png" class="img-thumbnail img-responsive" alt="{{ page.name }}" />
+    </a>
+  </div>
+  <div class="col-sm-4">
+    <dl class="dl-horizontal">
+      <dt>Developer:</dt>
+      <dd><a href="{{ page.developerUrl }}">{{ page.developer }}</a></dd>
+      <dt>Tags:</dt>
+      <dd>
+        {% for tag in page.tags %}
+        <span class="label label-default">{{ tag }}</span>
+        {% endfor %}
+      </dd>
+    </dl>
+  </div>
+</div>
+
+{% capture id %}software-{{ page.name | slugify }}{% endcapture %}
+{% include discussion.html id=id %}

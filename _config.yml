@@ -21,6 +21,9 @@ collections:
   hacks:
     output: true
     permalink: /hacks/:path/
+  software:
+    output: true
+    permalink: /software/:path/
 
 defaults:
   -
@@ -38,3 +41,8 @@ defaults:
       type: hacks
     values:
       layout: hack
+  -
+    scope:
+      type: software
+    values:
+      layout: software

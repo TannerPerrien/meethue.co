@@ -53,6 +53,31 @@ excerpt: Learn about Philips Hue lights. Read expert advice, comparison guides, 
 <div class="row">
   <div class="col-md-12">
     <div class="page-header">
+      <h1><strong>Software</strong> <small>that interacts with Hue</small></h1>
+    </div>
+    {% for software in site.software %}
+    <a href="{{ software.url }}">
+      <div class="col-md-3 col-sm-6">
+        <div class="thumbnail">
+          <div class="caption text-center">
+            <h3>{{ software.name }}</h3>
+          </div>
+          <img class="img-thumbnail" src="/images/software/{{ software.name | slugify }}.png" />
+          <div class="caption">
+            {% for tag in software.tags %}
+            <span class="label label-default">{{ tag }}</span>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </a>
+    {% endfor %}
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-12">
+    <div class="page-header">
       <h1><strong>Compare</strong> <small>Hue Products</small></h1>
     </div>
     <div class="table-responsive">
