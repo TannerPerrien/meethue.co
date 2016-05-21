@@ -52,35 +52,5 @@ layout: default
   {% endfor %}
 </div>
 
-<h2>Discussion</h2>
-<div id="disqus_thread"></div>
-<script>
-var disqus_config = function () {
-  this.page.url = "{{ site.url }}{{ page.url }}";
-  this.page.identifier = "product-{{ page.name | slugify }}";
-};
-(function() {
-var d = document, s = d.createElement('script');
-
-s.src = '//meethue.disqus.com/embed.js';
-
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
-
-<!-- <div class="row">
-  <div class="col-sm-8">
-   
-  </div>
-  <div class="col-sm-4">
-    <ul class="list-unstyled hue-feature-list">
-        {% for feature in site.data.hue.features %}
-          {% if page.features contains feature.id %}
-            <li><span class="hue-icon-{{ feature.id }}"></span>{{ feature.name }}</li>
-          {% endif %}
-        {% endfor %}
-    </ul>
-  </div>
-</div> -->
+{% capture id %}product-{{ page.name | slugify }}{% endcapture %}
+{% include discussion.html id=id %}
