@@ -10,7 +10,12 @@ layout: default
   <div class="col-sm-5">
     <p class="lead">{{ page.description }}</p>
     <div class="text-center">
+      {% for url in page.softwareUrls %}
+      <a href="{{ url.url }}" class="btn btn-primary btn-lg">{{ url.name }}</a>
+      {% endfor %}
+      {% if page.softwareUrl %}
       <a href="{{ page.softwareUrl }}" class="btn btn-primary btn-lg">More Details</a>
+      {% endif %}
     </div>
   </div>
   <div class="col-sm-3 text-center">
@@ -24,7 +29,8 @@ layout: default
       <dd><a href="{{ page.developerUrl }}">{{ page.developer }}</a></dd>
       <dt>Tags:</dt>
       <dd>
-        {% for tag in page.tags %}
+        {% assign tags = page.tags | sort %}
+        {% for tag in tags | sort %}
         <span class="label label-default">{{ tag }}</span>
         {% endfor %}
       </dd>

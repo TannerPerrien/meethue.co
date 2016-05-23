@@ -55,16 +55,18 @@ excerpt: Learn about Philips Hue lights. Read expert advice, comparison guides, 
     <div class="page-header">
       <h1><strong>Software</strong> <small>that interacts with Hue</small></h1>
     </div>
-    {% for software in site.software %}
+    {% assign softwares = site.software | sort: 'name' %}
+    {% for software in softwares %}
     <a href="{{ software.url }}">
-      <div class="col-md-3 col-sm-6">
+      <div class="col-md-3 col-sm-4">
         <div class="thumbnail">
           <div class="caption text-center">
             <h3>{{ software.name }}</h3>
           </div>
           <img class="img-thumbnail" src="/images/software/{{ software.name | slugify }}.png" />
           <div class="caption">
-            {% for tag in software.tags %}
+            {% assign tags = software.tags | sort %}
+            {% for tag in tags %}
             <span class="label label-default">{{ tag }}</span>
             {% endfor %}
           </div>
