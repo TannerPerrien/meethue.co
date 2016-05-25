@@ -19,9 +19,13 @@ layout: default
     </div>
   </div>
   <div class="col-sm-3 text-center">
+    {% if page.softwareUrl %}
     <a href="{{ page.softwareUrl }}">
       <img src="/images/software/{{ page.name | slugify }}.png" class="img-thumbnail img-responsive" alt="{{ page.name }}" />
     </a>
+    {% else %}
+      <img src="/images/software/{{ page.name | slugify }}.png" class="img-thumbnail img-responsive" alt="{{ page.name }}" />
+    {% endif %}
   </div>
   <div class="col-sm-4">
     <dl class="dl-horizontal">
