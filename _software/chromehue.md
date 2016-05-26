@@ -1,6 +1,7 @@
 ---
 name: ChromeHue
-date: 2015-10-05
+date: 2016-05-24
+publishDate: 2015-10-05
 developer: Nicolas Varrot
 excerpt: ChromeHue allows you to control the Philips Hue bulbs from your browser by using a nice user-friendly UI.
 description: |

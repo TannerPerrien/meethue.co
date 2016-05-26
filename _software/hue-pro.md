@@ -1,6 +1,7 @@
 ---
 name: Hue Pro
-date: 2015-05-03
+date: 2016-05-24
+publishDate: 2015-05-03
 developer: Benjamin Chevoor
 excerpt: Take full control of your Phillips Hue lighting with highly customizable light presets, controls, widgets, schedules, and more.
 description: |

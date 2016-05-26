@@ -1,6 +1,7 @@
 ---
 name: Hue Disco
-date: 2016-05-20
+date: 2016-05-24
+publishDate: 2016-05-20
 developer: iMakeStuff
 excerpt: Turn your ordinary living room into a dancefloor. Use your Hue Connected restaurant as a party location without the need for an expensive lightplan.
 description: |

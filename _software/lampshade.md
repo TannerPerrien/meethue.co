@@ -1,6 +1,7 @@
 ---
 name: LampShade
-date: 2013-02-26
+date: 2016-05-24
+publishDate: 2013-02-26
 developer: Eric Kuxhausen
 excerpt: LampShade reinvents the lightswitch app. It unleashes the potential of smart light bulbs and focuses on making your home lighting convenient and beautiful.
 description: |

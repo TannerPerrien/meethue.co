@@ -1,6 +1,7 @@
 ---
 name: Shine
-date: 2015-11-26
+date: 2016-05-24
+publishDate: 2015-11-26
 developer: API Starter
 excerpt: You are only one press away from turning the lights on or off. Control Philip Hue wifi-connected lightbulbs straight from your computer.
 description: |

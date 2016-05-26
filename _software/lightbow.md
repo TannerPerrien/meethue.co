@@ -1,6 +1,7 @@
 ---
 name: Lightbow
-date: 2013-09-19
+date: 2016-05-24
+publishDate: 2013-09-19
 developer: Peter Rapp
 excerpt: Lightbow has the highest quality and quantity of stunning animated presets, plus the most powerful editor to create your own!
 description: |

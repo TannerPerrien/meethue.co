@@ -36,11 +36,15 @@ defaults:
       type: guides
     values:
       layout: guide
+      sitemap:
+        priority: 0.6
   -
     scope:
       type: hacks
     values:
       layout: hack
+      sitemap:
+        priority: 0.6
   -
     scope:
       type: software

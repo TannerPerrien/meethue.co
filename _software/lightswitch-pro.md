@@ -1,6 +1,7 @@
 ---
 name: Lightswitch Pro
-date: 2015-11-26
+date: 2016-05-24
+publishDate: 2015-11-26
 developer: API Starter
 excerpt: |
   Lightswitch allows you to control the Philip Hue lights. 10+ dynamic light scenes, including: Romantic Red, Disco, Christmas, New Years fireworks, Police lights

@@ -1,6 +1,7 @@
 ---
 name: IFTTT
-date: 2015-11-26
+date: 2016-05-24
+publishDate: 2015-11-26
 developer: IFTTT
 excerpt: IFTTT lets you create powerful "recipes" with one simple statement — "If This Then That". Connect Hue to over 100 other channels on IFTTT!
 description: |

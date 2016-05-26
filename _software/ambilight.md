@@ -1,6 +1,6 @@
 ---
 name: Ambilight
-date: 2014-04-15
+publishDate: 2014-04-15
 developer: TP Vision
 excerpt: Expand your TV viewing experience by extending your Ambilight TV colors to your Hue light bulbs. Available on iOS and Android.
 description: |

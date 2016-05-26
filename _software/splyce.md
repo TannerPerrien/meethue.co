@@ -1,6 +1,7 @@
 ---
 name: Splyce
-date: 2015-10-19
+date: 2016-05-24
+publishDate: 2015-10-19
 developer: InQBarna Kenkyuu Jo
 excerpt: Live a whole new music experience with Splyce! The most beautiful music player with magical DJ powers.
 description: |
