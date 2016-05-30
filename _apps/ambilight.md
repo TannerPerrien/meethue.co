@@ -17,4 +17,6 @@ softwareUrls:
   - name: iOS
     url: https://itunes.apple.com/be/app/ambilight+Hue/id640081408?mt=8
 developerUrl: http://www.tpvision.com/
+redirect_from:
+  - /software/ambilight/
 ---

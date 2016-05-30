@@ -16,4 +16,6 @@ softwareUrls:
   - name: iOS
     url: https://itunes.apple.com/us/app/hue-disco/id581258186
 developerUrl: http://www.vandenbrakel.nl/
+redirect_from:
+  - /software/hue-disco/
 ---

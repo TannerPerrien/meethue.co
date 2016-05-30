@@ -11,4 +11,6 @@ tags:
 - Free
 softwareUrl: https://chrome.google.com/webstore/detail/chromehue-for-philips-hue/ofhimkkaomaoilmnmfhmdoekoaeclkoa
 developerUrl: #
+redirect_from:
+  - /software/chromehue/
 ---

@@ -84,19 +84,19 @@ excerpt: Learn about Philips Hue lights. Read expert advice, comparison guides, 
 <div class="row">
   <div class="col-md-12">
     <div class="page-header">
-      <h2 id="apps"><strong>Software</strong> <small>that interacts with Hue</small></h2>
+      <h2 id="apps"><strong>Apps</strong> <small>that interacts with Hue</small></h2>
     </div>
-    {% assign softwares = site.software | sort: 'name' %}
-    {% for software in softwares %}
-    <a href="{{ software.url }}" title="{{ software.name }}">
+    {% assign apps = site.apps | sort: 'name' %}
+    {% for app in apps %}
+    <a href="{{ app.url }}" title="{{ app.name }}">
       <div class="col-md-3 col-sm-4">
-        <div class="thumbnail" data-toggle="popover" data-title="{{ software.name }}" data-content="{{ software.excerpt }}" data-trigger="hover focus" data-placement="auto">
+        <div class="thumbnail" data-toggle="popover" data-title="{{ app.name }}" data-content="{{ app.excerpt }}" data-trigger="hover focus" data-placement="auto">
           <div class="caption text-center">
-            <h3>{{ software.name }}</h3>
+            <h3>{{ app.name }}</h3>
           </div>
-          <img class="img-thumbnail" src="/images/software/{{ software.name | slugify }}.png" />
+          <img class="img-thumbnail" src="/images/apps/{{ app.name | slugify }}.png" />
           <div class="caption">
-            {% assign tags = software.tags | sort %}
+            {% assign tags = app.tags | sort %}
             {% for tag in tags %}
             <span class="label label-default">{{ tag }}</span>
             {% endfor %}

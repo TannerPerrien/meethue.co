@@ -14,4 +14,6 @@ softwareUrls:
   - name: Android
     url: https://play.google.com/store/apps/details?id=com.kuxhausen.huemore
 developerUrl: http://lampshade.io/
+redirect_from:
+  - /software/lampshade/
 ---

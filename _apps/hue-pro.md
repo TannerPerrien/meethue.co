@@ -16,4 +16,6 @@ softwareUrls:
   - name: iOS
     url: https://itunes.apple.com/us/app/hue-pro/id1074528185
 developerUrl: http://www.hueproapp.com/
+redirect_from:
+  - /software/hue-pro/
 ---

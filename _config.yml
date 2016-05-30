@@ -8,6 +8,9 @@ url: "http://meethue.co"
 twitter_username:
 github_username:
 
+gems:
+  - jekyll-redirect-from
+
 # Build settings
 markdown: kramdown
 
@@ -21,9 +24,9 @@ collections:
   hacks:
     output: true
     permalink: /hacks/:path/
-  software:
+  apps:
     output: true
-    permalink: /software/:path/
+    permalink: /apps/:path/
 
 defaults:
   -
@@ -47,6 +50,6 @@ defaults:
         priority: 0.6
   -
     scope:
-      type: software
+      type: apps
     values:
-      layout: software
+      layout: apps

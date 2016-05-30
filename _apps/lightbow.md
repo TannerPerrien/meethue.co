@@ -13,4 +13,6 @@ softwareUrls:
   - name: iOS
     url: https://itunes.apple.com/us/app/lightbow-for-philips-Hue-lifx/id695235159
 developerUrl: http://lightbow.net/
+redirect_from:
+  - /software/lightbow/
 ---

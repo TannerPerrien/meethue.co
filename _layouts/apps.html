@@ -21,10 +21,10 @@ layout: default
   <div class="col-sm-3 text-center">
     {% if page.softwareUrl %}
     <a href="{{ page.softwareUrl }}">
-      <img src="/images/software/{{ page.name | slugify }}.png" class="img-thumbnail img-responsive" alt="{{ page.name }}" />
+      <img src="/images/apps/{{ page.name | slugify }}.png" class="img-thumbnail img-responsive" alt="{{ page.name }}" />
     </a>
     {% else %}
-      <img src="/images/software/{{ page.name | slugify }}.png" class="img-thumbnail img-responsive" alt="{{ page.name }}" />
+      <img src="/images/apps/{{ page.name | slugify }}.png" class="img-thumbnail img-responsive" alt="{{ page.name }}" />
     {% endif %}
   </div>
   <div class="col-sm-4">
@@ -42,5 +42,5 @@ layout: default
   </div>
 </div>
 
-{% capture id %}software-{{ page.name | slugify }}{% endcapture %}
+{% capture id %}apps-{{ page.name | slugify }}{% endcapture %}
 {% include discussion.html id=id %}

@@ -12,4 +12,6 @@ tags:
 - Paid
 softwareUrl: https://chrome.google.com/webstore/detail/shine-for-philips-hue/ahhkdhdkelfamkepplgbeidokokhokbp
 developerUrl: http://apistarter.com/
+redirect_from:
+  - /software/shine/
 ---

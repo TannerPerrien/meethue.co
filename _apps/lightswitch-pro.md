@@ -12,4 +12,6 @@ tags:
 - Paid
 softwareUrl: https://chrome.google.com/webstore/detail/lightswitch-pro-for-phili/ahcbfmbmpojngalhbkkggbfamgmkneoo
 developerUrl: #
+redirect_from:
+  - /software/lightswitch-pro/
 ---

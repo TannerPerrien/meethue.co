@@ -18,4 +18,6 @@ softwareUrls:
   - name: iOS
     url: https://itunes.apple.com/us/app/splyce-fancy-music-player/id648339800?mt=8
 developerUrl: http://splyceapp.inqbarna.com/
+redirect_from:
+  - /software/splyce/
 ---

@@ -11,4 +11,6 @@ tags:
 - Automation
 softwareUrl: https://ifttt.com/hue
 developerUrl: https://ifttt.com/
+redirect_from:
+  - /software/ifttt/
 ---
