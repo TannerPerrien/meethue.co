@@ -1,6 +1,7 @@
 ---
 title: Bloom vs Iris - Splashing color on your wall
 date: 2016-05-05
+order: 2
 excerpt: Consider the Bloom vs Iris. Which is better for you? These Philips Hue lights are confusingly similar. Both of these multi-color fixtures paint your walls with color.
 sitemap:
   lastmod: 2016-05-26

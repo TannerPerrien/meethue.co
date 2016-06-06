@@ -19,7 +19,8 @@ excerpt: Learn about Philips Hue lights. Read expert advice, comparison guides, 
     <div class="page-header">
       <h2 id="guides"><strong>Guides</strong> <small>to light your home</small></h2>
     </div>
-    {% for guide in site.guides %}
+    {% assign guides = site.guides | sort: 'order' %}
+    {% for guide in guides %}
     <div class="col-md-6">
       <div class="list-group">
         <a href="{{ guide.url }}" class="list-group-item list-group-item-info">
