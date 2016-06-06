@@ -57,13 +57,13 @@ There are two versions of the Hue Bridge, the 1st generation and the 2nd generat
 | Works with all Hue lights | Yes | Yes
 | Design | Circular | Square (rounded corners)
 | Apple HomeKit Compatible | No | Yes
-| Future Proof | Less so | More so
+| Future Proof | No | Yes
 {: .table .table-hover .table-striped .table-bordered}
 </div>
 </div>
 </div>
 
-If you do not need Apple HomeKit integration, consider saving yourself a few bucks with one of these 1st gen deals:
+Some reports suggest the 2nd gen Bridge does a better job of handling more connected bulbs due to an increase in internal memory and processing power. However, if you do not need Apple HomeKit integration, consider saving yourself a few bucks with one of these 1st gen deals:
 
 * [1st Gen with Color Lights][bridge-v1a]
 * [1st Gen with White Lights][bridge-v1b]
@@ -129,6 +129,19 @@ Additional products and comparisons can be seen on the [compare guide][compare].
 Hue works great on its own, but you can supercharge it when you hook into other smart home systems. Apple's [HomeKit][homekit], Samsung's [SmartThings][smartthings], [Insteon][], [Wink][], and [Echo][] are some of the leading systems compatible with Hue lights. These controllers will help you connect your lighting with other smart home hardware such as door locks and motion sensors.
 
 If you found this guide helpful or have any questions, please let us know in the comments below.
+
+### FAQ
+
+<div class="list-group">
+  <a href="#" class="list-group-item">
+    <h4 class="list-group-item-heading">Do 2nd gen bulbs work with the 1st gen Bridge?</h4>
+    <p class="list-group-item-text">Yes, all Hue bulbs work with either gen Bridge.</p>
+  </a>
+  <a href="#" class="list-group-item">
+    <h4 class="list-group-item-heading">Is the 2nd gen Bridge more powerful than the 1st gen?</h4>
+    <p class="list-group-item-text">The 2nd gen Bridge has more memory and a more powerful CPU. How that affects you depends on what you are doing with it. Some reports suggest the 2nd gen is more reponsive. The Philips website says this: The new Hue bridge is ready for the future as it has way more internal memory and more powerful processor than the old Hue bridge.</p>
+  </a>
+</div>
 
 [bridge-v1a]: http://amzn.to/1RHzHFV "Philips Hue Bridge - 1st Gen, Color"
 [bridge-v1b]: http://amzn.to/1UBMspY "Philips Hue Bridge - 1st Gen, Hue Lux"
