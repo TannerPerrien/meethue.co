@@ -133,11 +133,11 @@ If you found this guide helpful or have any questions, please let us know in the
 ### FAQ
 
 <div class="list-group">
-  <a href="#" class="list-group-item">
+  <a class="list-group-item">
     <h4 class="list-group-item-heading">Do 2nd gen bulbs work with the 1st gen Bridge?</h4>
     <p class="list-group-item-text">Yes, all Hue bulbs work with either gen Bridge.</p>
   </a>
-  <a href="#" class="list-group-item">
+  <a class="list-group-item">
     <h4 class="list-group-item-heading">Is the 2nd gen Bridge more powerful than the 1st gen?</h4>
     <p class="list-group-item-text">The 2nd gen Bridge has more memory and a more powerful CPU. How that affects you depends on what you are doing with it. Some reports suggest the 2nd gen is more reponsive. The Philips website says this: The new Hue bridge is ready for the future as it has way more internal memory and more powerful processor than the old Hue bridge.</p>
   </a>
