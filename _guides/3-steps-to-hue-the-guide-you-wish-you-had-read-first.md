@@ -160,7 +160,7 @@ If you found this guide helpful or have any questions, please let us know in the
 [color-ambiance]: http://www.westinghouselighting.com/color-temperature.aspx "Color Ambiance"
 [wink]: http://www.wink.com/ "Wink"
 [insteon]: http://www.insteon.com/ "Insteon"
-[echo]: http://www.amazon.com/Amazon-Echo-Bluetooth-Speaker-with-WiFi-Alexa/dp/B00X4WHP5E "Amazon Echo"
+[echo]: http://amzn.to/1UlLVpA "Amazon Echo"
 [lightstrip]: {{ lightstrip.url }} "Philips Hue Lightstrip Plus"
 [bloom]: {{ bloom.url }} "Philips Hue Bloom"
 [tap]: {{ tap.url }} "Philips Hue Tap"
