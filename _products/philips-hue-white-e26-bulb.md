@@ -1,5 +1,5 @@
 ---
-order: 80
+order: 82
 name: Philips Hue White E26 Bulb
 features:
 - smart_control
@@ -12,8 +12,7 @@ purchaseUrl: http://amzn.to/1Y0iIE7
 specs:
 - name: Bulb
   items:
-  - E26 single contact medium screw base fitting
-  - 9.5W
+  - E26 single contact medium screw base fitting 9.5W
   - 0.5 W Standby power
   - A19 form factor
   - Nominal lifetime 25,000 Hours

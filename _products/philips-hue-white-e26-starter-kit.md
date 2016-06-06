@@ -1,5 +1,5 @@
 ---
-order: 26
+order: 27
 name: Philips Hue White E26 Starter Kit
 features:
 - smart_control
