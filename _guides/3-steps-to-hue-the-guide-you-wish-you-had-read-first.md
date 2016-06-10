@@ -86,7 +86,7 @@ Here we will take a look at the main bulb lineup and the features offered by eac
 | Links | [kit][color-starter], [bulbs][color-bulbs] | [kit][white-ambiance-starter], [bulbs][white-ambiance-bulbs] | [kit][white-starter], [bulbs][white-bulbs]
 | Control on/off | Yes | Yes | Yes
 | Dimmable | Yes | Yes | Yes
-| 50k shades of white (color temp) | Yes | Yes | No
+| Many shades of white (color temp) | Yes | Yes | No
 | 16m colors | Yes | No | No
 {: .table .table-hover .table-striped .table-bordered}
 </div>
@@ -108,7 +108,7 @@ Color temperature determines how yellow (warm) or blue (cool) a light is. Many w
 **Fun Fact:** [Color temperature][color-temperature] is measured in Kelvins and falls in the range of 1,000 to 10,000k (in the context of everyday lighting). Lower temperatures produce "warm" (yellow) light while higher temperatures produce "cool" (blue) light.
 {: .alert .alert-warning}
 
-**Bottom Line:** If you want the full potential of your Hue system, the color bulbs have every feature! If you don't care about light color but do want to control color temperature (50 thousand different shades of white), the ambiance bulbs are a fantastic option! If light color and temperature are not your thing and you just want to control and dim your lights, the white bulbs will get the job done.
+**Bottom Line:** If you want the full potential of your Hue system, the color bulbs have every feature! If you don't care about light color but do want to control color temperature (many different shades of white), the ambiance bulbs are a fantastic option! If light color and temperature are not your thing and you just want to control and dim your lights, the white bulbs will get the job done.
 
 ### Step 3: Expansion / Next Steps
 
