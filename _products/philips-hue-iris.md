@@ -10,8 +10,15 @@ features:
 - sync_music
 - sync_movies
 description: A stylish lamp that sits on your desk, your shelf or the floor and washes
-  your walls with beautiful colored light.
+  your walls with beautiful colored light. The Iris is aesthetically pleasing and
+  does a fine job of putting extra color in any part of your living space. This is
+  compatible with the Hue Bridge and other Hue lights.
 purchaseUrl: http://amzn.to/1VFL0Gj
+sections:
+- name: Iris vs Bloom
+  content: The Iris and Bloom are very similar. Both of these multi-color light fixtures
+    paint your walls with color, but the Iris is bigger and brighter. Read more about
+    these two lights in the <a href="/guides/bloom-vs-iris/">Bloom vs Iris Guide</a>.
 specs:
 - name: Light
   items:
@@ -34,5 +41,7 @@ specs:
   - Software upgradeable
 title: Philips Hue Iris
 excerpt: A stylish lamp that sits on your desk, your shelf or the floor and washes
-  your walls with beautiful colored light.
+  your walls with beautiful colored light. The Iris is aesthetically pleasing and
+  does a fine job of putting extra color in any part of your living space. This is
+  compatible with the Hue Bridge and other Hue lights.
 ---

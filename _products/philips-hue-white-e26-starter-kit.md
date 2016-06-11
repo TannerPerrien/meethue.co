@@ -9,6 +9,19 @@ features:
 description: Get started with Philips Hue white bulbs and experience peace of mind
   by controlling your lights wherever you are.
 purchaseUrl: http://amzn.to/1VZWhBD
+sections:
+- name: Color vs Ambiance vs White
+  content: The Hue lineup offers three different light bulb options. Color bulbs allow
+    you to pick any color you want. Ambiance bulbs allow you to pick from many different
+    shades of white. This allows flexibilty between a warm, inviting environment and
+    an environment geared for focus. White bulbs offer the least in terms of features,
+    but still leave you in control for dimming and turning on/off. Read more about
+    choosing bulbs and color temperature in the <a href="/guides/3-steps-to-hue-the-guide-you-wish-you-had-read-first/">Hue
+    Lighting Guide</a>.
+- name: Light/Bridge Compatibility
+  content: All lights and bridges are compatible. For example, 1st gen lights will
+    work with a 2nd gen bridge. Likewise, 2nd gen lights will work with a 1st gen
+    bridge.
 specs:
 - name: Bulb
   items:

@@ -7,6 +7,17 @@ description: A battery-powered dimmer for the Philips Hue system that controls y
   preferred light setting that you have configured in the Philips Hue app, without
   the use of your smart device.
 purchaseUrl: http://amzn.to/1VZWQvt
+sections:
+- name: Battery? No worries!
+  content: Compared to the Tap controller/switch, you're probably wondering why this
+    switch requires batteries. Not to worry, one battery will last at least 3 years
+    before it needs replacing. Better yet, a battery is included, so with purchase
+    you will be go to go with controlling your lights!
+- name: Range
+  content: The Tap should be able to communicate with the Bridge at least 39 ft away.
+    If in doubt, take some rough measurements from your Bridge to the location you
+    plan on mounting the switch. If you are looking for a remote like switch/controller,
+    take a look at the Tap.
 specs:
 - name: Switch
   items:

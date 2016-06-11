@@ -11,8 +11,28 @@ features:
 - wellbeing
 description: Set the right ambiance for any moment. Philips Hue phoenix produces a
   beautiful range of white light that can be changed from warm to cool white, and
-  it can be brightened and dimmed.
+  it can be brightened and dimmed. The Phoenix lineup goes beyond the bulb and offers
+  fixtures with built in lighting that is ready to connect with Hue. Some Phoenix
+  fixtures are intended for new home installation or remodels, while others like this
+  lamp are ready to use out of the box.
 purchaseUrl: http://amzn.to/1VZXb0Y
+sections:
+- name: Phoenix vs Beyond
+  content: 'The Phoenix and Beyond product lineups both offer plug-n-play table lamps
+    along with wired fixtures ideal for a new home or home remodel. Two things set
+    the Beyond and Phoenix linups apart: price and colored lighting. The Beyond lineup
+    allows you to paint your room with color, but at a price, literally. The Beyond
+    lights are significantly more expensive than the Phoenix fixtures, but the Phoenix
+    fixtures can only produce white light at different color temperatures.'
+- name: Color vs Ambiance vs White
+  content: The Hue lineup offers three different light bulb options. This lamp falls
+    in the Ambiance lineup. Color bulbs allow you to pick any color you want. Ambiance
+    bulbs allow you to pick from many different shades of white. This allows flexibilty
+    between a warm, inviting environment and an environment geared for focus. White
+    bulbs offer the least in terms of features, but still leave you in control for
+    dimming and turning on/off. Read more about choosing bulbs and color temperature
+    in the <a href="/guides/3-steps-to-hue-the-guide-you-wish-you-had-read-first/">Hue
+    Lighting Guide</a>.
 specs:
 - name: Light
   items:
@@ -40,5 +60,8 @@ specs:
 title: Philips Hue Phoenix
 excerpt: Set the right ambiance for any moment. Philips Hue phoenix produces a beautiful
   range of white light that can be changed from warm to cool white, and it can be
-  brightened and dimmed.
+  brightened and dimmed. The Phoenix lineup goes beyond the bulb and offers fixtures
+  with built in lighting that is ready to connect with Hue. Some Phoenix fixtures
+  are intended for new home installation or remodels, while others like this lamp
+  are ready to use out of the box.
 ---

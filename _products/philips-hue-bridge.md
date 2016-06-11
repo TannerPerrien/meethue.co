@@ -12,8 +12,23 @@ features:
 - paint
 - sync_music
 - sync_movies
-description: Create your very own Philips Hue system, exactly the way you like it.
+description: The Hue Bridge is the brain that wirelessly controls your Hue lights.
+  The bridge plugs into your router via ethernet and connects with your phone and
+  light switch controllers to control your Hue lights. The Bridge is the only required
+  dedicated piece of hardware other than the Hue light bulbs.
 purchaseUrl: http://amzn.to/1VZWMfd
+sections:
+- name: 1st Generation / 2nd Generation
+  content: There are two versions of the Hue Bridge, the 1st generation and the 2nd
+    generation. The 1st gen bridge works the same as the 2nd gen with the exception
+    of Apple HomeKit. If you have or plan on integrating Hue with HomeKit, you will
+    need the 2nd generation Hue Bridge. Read more about choosing a bridge in the <a
+    href="/guides/3-steps-to-hue-the-guide-you-wish-you-had-read-first/">3 Steps to
+    Hue Guide</a>.
+- name: Light/Bridge Compatibility
+  content: All lights and bridges are compatible. For example, 1st gen lights will
+    work with a 2nd gen bridge. Likewise, 2nd gen lights will work with a 1st gen
+    bridge.
 specs:
 - name: Bridge
   items:
@@ -35,5 +50,8 @@ specs:
   - 'Operational humidity: 0% < H < 90%'
   - Non-condensing
 title: Philips Hue Bridge
-excerpt: Create your very own Philips Hue system, exactly the way you like it.
+excerpt: The Hue Bridge is the brain that wirelessly controls your Hue lights. The
+  bridge plugs into your router via ethernet and connects with your phone and light
+  switch controllers to control your Hue lights. The Bridge is the only required dedicated
+  piece of hardware other than the Hue light bulbs.
 ---

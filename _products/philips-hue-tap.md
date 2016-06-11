@@ -4,8 +4,16 @@ name: Philips Hue Tap
 features:
 - smart_control
 description: The world's first wireless smart switch that controls your Philips Hue
-  lights, powered by your touch.
+  lights, powered by your touch. This light switch can be mounted anywhere or used
+  like a TV remote for your lights. Its range is limited, but its ability to control
+  four scenes (four buttons) and no need for batteries make it a compelling offer.
 purchaseUrl: http://amzn.to/23gDgcV
+sections:
+- name: Range
+  content: The Tap should be able to communicate with the Bridge from 50 to 100 ft
+    away. If in doubt, take some rough measurements from your Bridge to the location
+    where you are most interested in using the Tap. Anything near 100 ft is likely
+    to have issues communicating with the Bridge.
 specs:
 - name: Switch
   items:
@@ -29,5 +37,7 @@ specs:
   - 2 years
 title: Philips Hue Tap
 excerpt: The world's first wireless smart switch that controls your Philips Hue lights,
-  powered by your touch.
+  powered by your touch. This light switch can be mounted anywhere or used like a
+  TV remote for your lights. Its range is limited, but its ability to control four
+  scenes (four buttons) and no need for batteries make it a compelling offer.
 ---

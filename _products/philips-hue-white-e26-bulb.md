@@ -7,8 +7,23 @@ features:
 - schedules
 - dimming
 description: Include a Philips Hue white bulb in your Philips Hue system and experience
-  high quality white light that you can dim smoothly.
+  high quality white light that you can dim smoothly. White bulbs like this are capable
+  of dimming but do not offer the color options and color temperature settings that
+  other bulbs offer.
 purchaseUrl: http://amzn.to/1Y0iIE7
+sections:
+- name: Color vs Ambiance vs White
+  content: The Hue lineup offers three different light bulb options. Color bulbs allow
+    you to pick any color you want. Ambiance bulbs allow you to pick from many different
+    shades of white. This allows flexibilty between a warm, inviting environment and
+    an environment geared for focus. White bulbs offer the least in terms of features,
+    but still leave you in control for dimming and turning on/off. Read more about
+    choosing bulbs and color temperature in the <a href="/guides/3-steps-to-hue-the-guide-you-wish-you-had-read-first/">Hue
+    Lighting Guide</a>.
+- name: Light/Bridge Compatibility
+  content: All lights and bridges are compatible. For example, 1st gen lights will
+    work with a 2nd gen bridge. Likewise, 2nd gen lights will work with a 1st gen
+    bridge.
 specs:
 - name: Bulb
   items:
@@ -33,5 +48,7 @@ specs:
   - Non-condensing
 title: Philips Hue White E26 Bulb
 excerpt: Include a Philips Hue white bulb in your Philips Hue system and experience
-  high quality white light that you can dim smoothly.
+  high quality white light that you can dim smoothly. White bulbs like this are capable
+  of dimming but do not offer the color options and color temperature settings that
+  other bulbs offer.
 ---

@@ -12,6 +12,19 @@ description: The smart portable light that lets you light any moment, anywhere. 
   the mood via the control on the product itself or use the Philips Hue app on your
   smart device.
 purchaseUrl: http://amzn.to/1VZWWTJ
+sections:
+- name: What would I do with a portable lamp?
+  content: The Go is great for activities like yoga, camping, parties, and gaming.
+    The 3 hour battery life and built-in lighting presets allow you to put light in
+    the exact space you want.
+- name: But I have to plug it in all the time? No thanks!
+  content: 'You''re wondering. I''m wondering. We''re all wondering. There is an answer:
+    charge the Go in a space where it can commonly be used. It will work great as
+    a light in the place for most of the time. You can add IFTTT recipes to make the
+    Go flash a color of light when your favorite team scores or when your loved one
+    is heading home, along with many other creative ideas. Or put the Go next to your
+    bedside and have it wake you with deep dimming so that you start your day off
+    fresh and energized.'
 specs:
 - name: Form
   items:

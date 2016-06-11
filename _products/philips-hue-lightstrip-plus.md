@@ -12,9 +12,19 @@ features:
 - paint
 - sync_music
 - sync_movies
-description: The most flexible light source imaginable. Shape it, attach it to any
-  solid surface and extend it up to 33 feet by adding 40 inch extensions.
+description: 'For clarification, this is the 2nd gen lightstrip: i.e. the better,
+  longer, brighter light strip. This is the most flexible light source imaginable.
+  Shape it, attach it to any solid surface and extend it up to 33 feet by adding 40
+  inch extensions.'
 purchaseUrl: http://amzn.to/1VFKSXi
+sections:
+- name: How is this different than the LightStrip?
+  content: You may find the LightStrip being sold elsewhere on the web, but be warned
+    that the regular LightStrip is the 1st generation lightstrip and is considerably
+    less bright than the LightStrip Plus! If you find a good deal on the 1st gen and
+    don't need the extra brightness, go for it. However, take note that the exact
+    color output may vary, so you would be best advised to not mix and match the 1st
+    gen and 2nd gen lightstrips too close to each other.
 specs:
 - name: Light
   items:
@@ -46,6 +56,7 @@ specs:
   - 80 in/po base strip
   - 1 power adapter
 title: Philips Hue LightStrip Plus
-excerpt: The most flexible light source imaginable. Shape it, attach it to any solid
-  surface and extend it up to 33 feet by adding 40 inch extensions.
+excerpt: 'For clarification, this is the 2nd gen lightstrip: i.e. the better, longer,
+  brighter light strip. This is the most flexible light source imaginable. Shape it,
+  attach it to any solid surface and extend it up to 33 feet by adding 40 inch extensions.'
 ---

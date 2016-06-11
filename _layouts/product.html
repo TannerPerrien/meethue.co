@@ -38,6 +38,11 @@ layout: default
   </div>
 </div>
 
+{% for section in page.sections %}
+  <h2>{{ section.name }}</h2>
+  <p>{{ section.content }}</p>
+{% endfor %}
+
 <h2>Specs</h2>
 <div class="row">
   {% for spec in page.specs %}

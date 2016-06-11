@@ -12,9 +12,28 @@ features:
 - paint
 - sync_music
 - sync_movies
-description: Get started with Philips Hue white and color ambiance bulbs and experience
-  high quality white and colored light that offers you endless possibilities.
+description: This starter kit gets you going with the best of what Hue has to offer.
+  A bridge and 3 color bulbs can set color and warmth to any scene in your home! Get
+  started with Philips Hue white and color ambiance bulbs and experience high quality
+  white and colored light that offers you endless possibilities.
 purchaseUrl: http://amzn.to/1Y0ayvq
+sections:
+- name: Color vs Ambiance vs White
+  content: The Hue lineup offers three different light bulb options. Color bulbs allow
+    you to pick any color you want. Ambiance bulbs allow you to pick from many different
+    shades of white. This allows flexibilty between a warm, inviting environment and
+    an environment geared for focus. White bulbs offer the least in terms of features,
+    but still leave you in control for dimming and turning on/off. Read more about
+    choosing bulbs and color temperature in the <a href="/guides/3-steps-to-hue-the-guide-you-wish-you-had-read-first/">Hue
+    Lighting Guide</a>.
+- name: Light/Bridge Compatibility
+  content: All lights and bridges are compatible. For example, 1st gen lights will
+    work with a 2nd gen bridge. Likewise, 2nd gen lights will work with a 1st gen
+    bridge.
+- name: What is E26?
+  content: E26 is an Edison Screw light bulb mount common in North America and continental
+    Europe. You can read more about it in the <a href="/guides/philips-hue-light-bulb-types/">Light
+    Bulb Types Guide</a>.
 specs:
 - name: Bulb
   items:
@@ -43,6 +62,8 @@ specs:
   - Dimming only via RF down to 5% (no external dimmer)
   - Beam angle –160° ± 20°
 title: Philips Hue White and Color 9W E26 Starter kit
-excerpt: Get started with Philips Hue white and color ambiance bulbs and experience
-  high quality white and colored light that offers you endless possibilities.
+excerpt: This starter kit gets you going with the best of what Hue has to offer. A
+  bridge and 3 color bulbs can set color and warmth to any scene in your home! Get
+  started with Philips Hue white and color ambiance bulbs and experience high quality
+  white and colored light that offers you endless possibilities.
 ---

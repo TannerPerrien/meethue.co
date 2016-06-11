@@ -9,9 +9,16 @@ features:
 - paint
 - sync_music
 - sync_movies
-description: Light where you’d never expect it. Bend, shape and cut. Attach Philips
-  Hue lightstrip anywhere for a beautiful glow of colored accent lighting.
+description: This product is the 1st gen lightstrip. It is recommended instead to
+  get the 2nd generation LightStrip Plus as this is brighter and supports longer lengths.
 purchaseUrl: http://amzn.to/1VFKSXi
+sections:
+- name: Why is there a page on the 1st generation light strip?
+  content: The goal of this website is to provide you with the most information possible
+    around Hue lighting and steer you clear of any bad purchase decisions. You may
+    find this item on other websites and wonder how it differs from the LightStrip
+    Plus. This is the 1st generation lightstrip that is notably less bright compared
+    to its 2nd gen replacement.
 specs:
 - name: Light
   items:
@@ -33,6 +40,6 @@ specs:
   - 'H: 0.11 in'
   - 'L: 78.7 in'
 title: Philips Hue LightStrips
-excerpt: Light where you’d never expect it. Bend, shape and cut. Attach Philips Hue
-  lightstrip anywhere for a beautiful glow of colored accent lighting.
+excerpt: This product is the 1st gen lightstrip. It is recommended instead to get
+  the 2nd generation LightStrip Plus as this is brighter and supports longer lengths.
 ---

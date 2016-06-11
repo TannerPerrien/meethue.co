@@ -12,10 +12,24 @@ features:
 - paint
 - sync_music
 - sync_movies
-description: Include a Philips Hue white and color ambiance bulb in your Philips Hue
-  system and experience high quality white and colored light that offers you endless
+description: If you're looking to add additional bulbs to your lighting lineup, you
+  have options! Include a Philips Hue white and color ambiance bulb in your Philips
+  Hue system and experience high quality white and colored light that offers you endless
   possibilities.
 purchaseUrl: http://amzn.to/1VFKNTx
+sections:
+- name: Color vs Ambiance vs White
+  content: The Hue lineup offers three different light bulb options. Color bulbs allow
+    you to pick any color you want. Ambiance bulbs allow you to pick from many different
+    shades of white. This allows flexibilty between a warm, inviting environment and
+    an environment geared for focus. White bulbs offer the least in terms of features,
+    but still leave you in control for dimming and turning on/off. Read more about
+    choosing bulbs and color temperature in the <a href="/guides/3-steps-to-hue-the-guide-you-wish-you-had-read-first/">Hue
+    Lighting Guide</a>.
+- name: Light/Bridge Compatibility
+  content: All lights and bridges are compatible. For example, 1st gen lights will
+    work with a 2nd gen bridge. Likewise, 2nd gen lights will work with a 1st gen
+    bridge.
 specs:
 - name: Bulb
   items:
@@ -44,6 +58,8 @@ specs:
   - Dimming only via RF down to 5% (no external dimmer)
   - Beam angle –160° ± 20°
 title: Philips Hue white and color ambiance - Extension Bulbs
-excerpt: Include a Philips Hue white and color ambiance bulb in your Philips Hue system
-  and experience high quality white and colored light that offers you endless possibilities.
+excerpt: If you're looking to add additional bulbs to your lighting lineup, you have
+  options! Include a Philips Hue white and color ambiance bulb in your Philips Hue
+  system and experience high quality white and colored light that offers you endless
+  possibilities.
 ---
