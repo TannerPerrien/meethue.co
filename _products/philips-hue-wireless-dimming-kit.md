@@ -8,7 +8,7 @@ description: The perfect pair. A clever wireless switch that works directly out 
   the box and a Philips Hue white lamp. No wires, no electrician, no installation
   needed. Unlike some of the other Hue switches, this switch is powered by a battery.
   Switches like the Tap are powered by human touch and do not require batteries.
-purchaseUrl: http://amzn.to/1VZWqVE
+purchaseUrl: https://www.amazon.com/Philips-455394-Hue-Wireless-Dimming/dp/B014H2P89O?tag=meethue-20
 sections:
 - name: Color vs Ambiance vs White
   content: The Hue lineup offers three different light bulb options. This kit packages

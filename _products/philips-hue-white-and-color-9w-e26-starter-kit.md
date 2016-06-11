@@ -16,7 +16,7 @@ description: This starter kit gets you going with the best of what Hue has to of
   A bridge and 3 color bulbs can set color and warmth to any scene in your home! Get
   started with Philips Hue white and color ambiance bulbs and experience high quality
   white and colored light that offers you endless possibilities.
-purchaseUrl: http://amzn.to/1Y0ayvq
+purchaseUrl: https://www.amazon.com/Philips-456194-Ambiance-Starter-Generation/dp/B016H0QSGG?tag=meethue-20
 sections:
 - name: Color vs Ambiance vs White
   content: The Hue lineup offers three different light bulb options. Color bulbs allow

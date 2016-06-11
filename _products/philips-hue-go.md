@@ -11,7 +11,7 @@ features:
 description: The smart portable light that lets you light any moment, anywhere. Set
   the mood via the control on the product itself or use the Philips Hue app on your
   smart device.
-purchaseUrl: http://amzn.to/1VZWWTJ
+purchaseUrl: https://www.amazon.com/Philips-798835-Personal-Wireless-Lighting/dp/B00UVHAC1O?tag=meethue-20
 sections:
 - name: What would I do with a portable lamp?
   content: The Go is great for activities like yoga, camping, parties, and gaming.

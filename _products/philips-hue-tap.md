@@ -7,7 +7,7 @@ description: The world's first wireless smart switch that controls your Philips 
   lights, powered by your touch. This light switch can be mounted anywhere or used
   like a TV remote for your lights. Its range is limited, but its ability to control
   four scenes (four buttons) and no need for batteries make it a compelling offer.
-purchaseUrl: http://amzn.to/23gDgcV
+purchaseUrl: https://www.amazon.com/Philips-452532-Personal-Wireless-Lighting/dp/B00ME9CD28?tag=meethue-20
 sections:
 - name: Range
   content: The Tap should be able to communicate with the Bridge from 50 to 100 ft

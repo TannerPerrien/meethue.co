@@ -13,7 +13,7 @@ description: A stylish lamp that sits on your desk, your shelf or the floor and 
   your walls with beautiful colored light. The Iris is aesthetically pleasing and
   does a fine job of putting extra color in any part of your living space. This is
   compatible with the Hue Bridge and other Hue lights.
-purchaseUrl: http://amzn.to/1VFL0Gj
+purchaseUrl: https://www.amazon.com/Philips-259960-Personal-Wireless-Frustration/dp/B00KOB81S8?tag=meethue-20
 sections:
 - name: Iris vs Bloom
   content: The Iris and Bloom are very similar. Both of these multi-color light fixtures

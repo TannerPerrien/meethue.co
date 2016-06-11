@@ -11,7 +11,7 @@ features:
 - sync_movies
 description: This product is the 1st gen lightstrip. It is recommended instead to
   get the 2nd generation LightStrip Plus as this is brighter and supports longer lengths.
-purchaseUrl: http://amzn.to/1VFKSXi
+purchaseUrl: https://www.amazon.com/Philips-800284-Lightstrip-Plus-Generation/dp/B014H2OXYU?tag=meethue-20
 sections:
 - name: Why is there a page on the 1st generation light strip?
   content: The goal of this website is to provide you with the most information possible

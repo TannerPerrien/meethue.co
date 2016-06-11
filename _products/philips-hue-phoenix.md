@@ -15,7 +15,7 @@ description: Set the right ambiance for any moment. Philips Hue phoenix produces
   fixtures with built in lighting that is ready to connect with Hue. Some Phoenix
   fixtures are intended for new home installation or remodels, while others like this
   lamp are ready to use out of the box.
-purchaseUrl: http://amzn.to/1VZXb0Y
+purchaseUrl: https://www.amazon.com/Philips-799981-Phoenix-Table-White/dp/B00W1KYAZ8?tag=meethue-20
 sections:
 - name: Phoenix vs Beyond
   content: 'The Phoenix and Beyond product lineups both offer plug-n-play table lamps

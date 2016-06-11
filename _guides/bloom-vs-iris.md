@@ -80,7 +80,7 @@ Bottom line: If you're looking for a light that is subtle and easy to conceal, a
 
 [bloom]: {{ bloom.purchaseUrl }} "Philips Hue Bloom"
 [iris]: {{ iris.purchaseUrl }} "Philips Hue Iris"
-[iris-personal]: http://amzn.to/1T1bNct "Philips Hue Iris (personal)"
+[iris-personal]: https://www.amazon.com/Philips-709996048-Living-compatible-Ecosystem/dp/B00BGMI3DC?tag=meethue-20 "Philips Hue Iris (personal)"
 [bridge]: {{ bridge.purchaseUrl }} "Philips Hue Bridge"
 [friends-of-hue]: http://www.mea.philips.com/c-m-li/choose-a-fixture/friends-of-hue/latest "Philips Hue - Friends of Hue"
 [living-colors]: http://www.mea.philips.com/c-m-li/choose-a-fixture/livingcolors/latest "Philips Hue - Living Colors"

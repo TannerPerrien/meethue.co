@@ -13,7 +13,7 @@ description: If you're looking to add additional bulbs to your lighting lineup, 
   have options! Include a Philips Hue White Ambiance bulb in your Philips Hue system
   and enjoy natural white light that helps you to wake up, energize, concentrate,
   read and relax.
-purchaseUrl: http://amzn.to/1XsPEZo
+purchaseUrl: https://www.amazon.com/gp/product/B014H2OZJS?tag=meethue-20
 sections:
 - name: Color vs Ambiance vs White
   content: The Hue lineup offers three different light bulb options. Color bulbs allow

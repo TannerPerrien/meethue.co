@@ -12,7 +12,7 @@ features:
 description: Get started with the Philips Hue White Ambiance starter kit and enjoy
   natural white light for any moment of your day, from sunrise to sunset. Control
   via your smart device, the included wireless switch, and connect to wearables.
-purchaseUrl: http://amzn.to/1Y0ayvq
+purchaseUrl: https://www.amazon.com/Philips-460989-Ambiance-Personal-Wireless/dp/B01F6T4R80?tag=meethue-20
 sections:
 - name: Color vs Ambiance vs White
   content: The Hue lineup offers three different light bulb options. Color bulbs allow

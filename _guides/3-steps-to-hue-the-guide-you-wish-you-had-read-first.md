@@ -143,9 +143,9 @@ If you found this guide helpful or have any questions, please let us know in the
   </a>
 </div>
 
-[bridge-v1a]: http://amzn.to/1RHzHFV "Philips Hue Bridge - 1st Gen, Color"
-[bridge-v1b]: http://amzn.to/1UBMspY "Philips Hue Bridge - 1st Gen, Hue Lux"
-[bridge-v1c]: http://amzn.to/1VEgaNt "Philips Hue Bridge - 1st Gen, BR30"
+[bridge-v1a]: https://www.amazon.com/Philips-426353-White-Starter-Generation/dp/B00A4EUUO8?tag=meethue-20 "Philips Hue Bridge - 1st Gen, Color"
+[bridge-v1b]: https://www.amazon.com/gp/product/B00POYCO42?tag=meethue-20 "Philips Hue Bridge - 1st Gen, Hue Lux"
+[bridge-v1c]: https://www.amazon.com/gp/product/B00HJY2RGU?tag=meethue-20 "Philips Hue Bridge - 1st Gen, BR30"
 [bridge-v2]: {{ bridge.purchaseUrl }} "Philips Hue Bridge - 2nd Generation"
 [color-starter]: {{ colorStarter.url }} "{{ colorStarter.name }}"
 [color-bulbs]: {{ colorBulbs.url }} "{{ colorBulbs.name }}"
@@ -155,12 +155,12 @@ If you found this guide helpful or have any questions, please let us know in the
 [white-bulbs]: {{ whiteBulbs.url }} "{{ whiteBulbs.name }}"
 [homekit]: http://www.apple.com/ios/homekit/ "Apple HomeKit"
 [smartthings]: https://www.smartthings.com/ "Smart Things. Intelligent Living."
-[smartthingshub]: http://amzn.to/27YH73k "Smart Things Hub"
+[smartthingshub]: https://www.amazon.com/Samsung-SmartThings-Hub-2nd-Generation/dp/B010NZV0GE?tag=meethue-20 "Smart Things Hub"
 [color-temperature]: https://en.wikipedia.org/wiki/Color_temperature "Color Temperature"
 [color-ambiance]: http://www.westinghouselighting.com/color-temperature.aspx "Color Ambiance"
 [wink]: http://www.wink.com/ "Wink"
 [insteon]: http://www.insteon.com/ "Insteon"
-[echo]: http://amzn.to/1UlLVpA "Amazon Echo"
+[echo]: https://www.amazon.com/gp/product/B00X4WHP5E?tag=meethue-20 "Amazon Echo"
 [lightstrip]: {{ lightstrip.url }} "Philips Hue Lightstrip Plus"
 [bloom]: {{ bloom.url }} "Philips Hue Bloom"
 [tap]: {{ tap.url }} "Philips Hue Tap"

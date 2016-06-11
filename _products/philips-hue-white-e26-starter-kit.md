@@ -8,7 +8,7 @@ features:
 - dimming
 description: Get started with Philips Hue white bulbs and experience peace of mind
   by controlling your lights wherever you are.
-purchaseUrl: http://amzn.to/1VZWhBD
+purchaseUrl: https://www.amazon.com/Philips-455303-White-Starter-Generation/dp/B014H2OZAC?tag=meethue-20
 sections:
 - name: Color vs Ambiance vs White
   content: The Hue lineup offers three different light bulb options. Color bulbs allow

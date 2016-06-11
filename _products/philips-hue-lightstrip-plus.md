@@ -16,7 +16,7 @@ description: 'For clarification, this is the 2nd gen lightstrip: i.e. the better
   longer, brighter light strip. This is the most flexible light source imaginable.
   Shape it, attach it to any solid surface and extend it up to 33 feet by adding 40
   inch extensions.'
-purchaseUrl: http://amzn.to/1VFKSXi
+purchaseUrl: https://www.amazon.com/Philips-800284-Lightstrip-Plus-Generation/dp/B014H2OXYU?tag=meethue-20
 sections:
 - name: How is this different than the LightStrip?
   content: You may find the LightStrip being sold elsewhere on the web, but be warned

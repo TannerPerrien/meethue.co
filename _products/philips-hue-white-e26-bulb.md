@@ -10,7 +10,7 @@ description: Include a Philips Hue white bulb in your Philips Hue system and exp
   high quality white light that you can dim smoothly. White bulbs like this are capable
   of dimming but do not offer the color options and color temperature settings that
   other bulbs offer.
-purchaseUrl: http://amzn.to/1Y0iIE7
+purchaseUrl: https://www.amazon.com/Philips-455295-White-Equivalent-Single/dp/B01C5C9ZLK?tag=meethue-20
 sections:
 - name: Color vs Ambiance vs White
   content: The Hue lineup offers three different light bulb options. Color bulbs allow

@@ -17,7 +17,7 @@ description: Iconic shaped lights with LightDuo technology that combine function
   bulb and offers fixtures with built in lighting that is ready to connect with Hue.
   Some Beyond fixtures are intended for new home installation or remodels, while others
   like this lamp are ready to use out of the box.
-purchaseUrl: http://amzn.to/1VZWUvc
+purchaseUrl: https://www.amazon.com/Philips-798082-Beyond-Table-Single/dp/B00OZLWRGU?tag=meethue-20
 sections:
 - name: Beyond vs Phoenix
   content: 'The Beyond and Phoenix product lineups both offer plug-n-play table lamps

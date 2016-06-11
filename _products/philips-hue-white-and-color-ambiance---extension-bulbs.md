@@ -16,7 +16,7 @@ description: If you're looking to add additional bulbs to your lighting lineup, 
   have options! Include a Philips Hue white and color ambiance bulb in your Philips
   Hue system and experience high quality white and colored light that offers you endless
   possibilities.
-purchaseUrl: http://amzn.to/1VFKNTx
+purchaseUrl: https://www.amazon.com/Philips-456186-Ambiance-Extension-Generation/dp/B014H2OZJS?tag=meethue-20
 sections:
 - name: Color vs Ambiance vs White
   content: The Hue lineup offers three different light bulb options. Color bulbs allow

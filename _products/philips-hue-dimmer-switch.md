@@ -6,7 +6,7 @@ features:
 description: A battery-powered dimmer for the Philips Hue system that controls your
   preferred light setting that you have configured in the Philips Hue app, without
   the use of your smart device.
-purchaseUrl: http://amzn.to/1VZWQvt
+purchaseUrl: https://www.amazon.com/Philips-458158-Hue-Dimmer-Switch/dp/B014H2OYVW?tag=meethue-20
 sections:
 - name: Battery? No worries!
   content: Compared to the Tap controller/switch, you're probably wondering why this

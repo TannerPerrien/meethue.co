@@ -16,7 +16,7 @@ description: The Hue Bridge is the brain that wirelessly controls your Hue light
   The bridge plugs into your router via ethernet and connects with your phone and
   light switch controllers to control your Hue lights. The Bridge is the only required
   dedicated piece of hardware other than the Hue light bulbs.
-purchaseUrl: http://amzn.to/1VZWMfd
+purchaseUrl: https://www.amazon.com/Philips-458489-Hue-Bridge-Frustration/dp/B014H2P42K?tag=meethue-20
 sections:
 - name: 1st Generation / 2nd Generation
   content: There are two versions of the Hue Bridge, the 1st generation and the 2nd

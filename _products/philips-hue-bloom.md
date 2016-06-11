@@ -13,7 +13,7 @@ description: An award-winning lamp designed to create indirect ambient lighting,
   Hue bloom stunningly projects beautiful colors and it blends in with any interior.
   The Bloom is easy to conceal while maintaining its ability to highlight a section
   of living space. This is compatible with the Hue Bridge and other Hue lights.
-purchaseUrl: http://amzn.to/1VFL0pB
+purchaseUrl: https://www.amazon.com/Philips-259945-Bloom-Frustration-Free/dp/B00I12YFP0?tag=meethue-20
 sections:
 - name: Bloom vs Iris
   content: The Bloom and Iris are very similar. Both of these multi-color light fixtures
