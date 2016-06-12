@@ -38,6 +38,9 @@ sitemap:
 This guide will help you determine which Hue components are best for your home. First we discuss the Hue Bridge, followed by a section guiding your decision on bulbs and color temperature. Lastly we will cover future expansion and additional lighting options that will help you take your home lighting to new levels.
 {: .lead}
 
+Already a pro? Check out the **[Comparison Guide][compare]** to easily filter and compare Hue products by different categories.
+{: .alert .alert-info}
+
 ### Step 1: The Bridge
 
 The [Hue Bridge][bridge-v2] is the brain that wirelessly controls your Hue lights. The bridge plugs into your router via ethernet and connects with your phone and light switch controllers to control your Hue lights. The Bridge is the only required dedicated piece of hardware other than the Hue light bulbs.
