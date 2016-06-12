@@ -9,6 +9,8 @@ features:
 - ambiance
 - automation
 - wellbeing
+categories:
+- bulb-ambiance
 description: If you're looking to add additional bulbs to your lighting lineup, you
   have options! Include a Philips Hue White Ambiance bulb in your Philips Hue system
   and enjoy natural white light that helps you to wake up, energize, concentrate,

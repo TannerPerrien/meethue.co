@@ -1,7 +1,7 @@
 ---
 title: Philips Hue Light Bulb Types
 date: 2016-05-07
-order: 2
+order: 4
 excerpt: E26, GU10, or B22? Remove confusion and quickly discover which Hue bulb types are compatible with your light fixtures in this Philips Hue guide.
 ---
 

@@ -21,6 +21,9 @@
       $('[data-toggle="popover"]').popover();
     });
     </script>
+    {% for include in page.includesPostBody %}
+      {% include {{ include }}.html %}
+    {% endfor %}
   </body>
 
 </html>

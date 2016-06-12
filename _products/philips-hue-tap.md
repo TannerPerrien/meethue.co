@@ -3,6 +3,8 @@ order: 60
 name: Philips Hue Tap
 features:
 - smart_control
+categories:
+- controller
 description: The world's first wireless smart switch that controls your Philips Hue
   lights, powered by your touch. This light switch can be mounted anywhere or used
   like a TV remote for your lights. Its range is limited, but its ability to control

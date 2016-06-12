@@ -12,6 +12,8 @@ features:
 - paint
 - sync_music
 - sync_movies
+categories:
+- kit
 description: The Hue Bridge is the brain that wirelessly controls your Hue lights.
   The bridge plugs into your router via ethernet and connects with your phone and
   light switch controllers to control your Hue lights. The Bridge is the only required

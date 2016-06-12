@@ -32,6 +32,8 @@ sitemap:
 {% assign bulbTypes = guides[0] %}
 {% assign guides = site.guides | where:"title", "Bloom vs Iris - Splashing color on your wall" %}
 {% assign splash = guides[0] %}
+{% assign guides = site.guides | where:"title", "Hue Product Comparison" %}
+{% assign productComparison = guides[0] %}
 
 This guide will help you determine which Hue components are best for your home. First we discuss the Hue Bridge, followed by a section guiding your decision on bulbs and color temperature. Lastly we will cover future expansion and additional lighting options that will help you take your home lighting to new levels.
 {: .lead}
@@ -166,4 +168,4 @@ If you found this guide helpful or have any questions, please let us know in the
 [tap]: {{ tap.url }} "Philips Hue Tap"
 [bulb-types]: {{ bulbTypes.url }} "Light bulb types"
 [splash]: {{ splash.url }} "Splash light on your wall"
-[compare]: /#compare "Compare Hue Products"
+[compare]: {{ productComparison.url }} "Compare Hue Products"

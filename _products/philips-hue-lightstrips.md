@@ -9,6 +9,9 @@ features:
 - paint
 - sync_music
 - sync_movies
+categories:
+- bulb-color
+- mood
 description: This product is the 1st gen lightstrip. It is recommended instead to
   get the 2nd generation LightStrip Plus as this is brighter and supports longer lengths.
 purchaseUrl: https://www.amazon.com/Philips-800284-Lightstrip-Plus-Generation/dp/B014H2OXYU?tag=meethue-20

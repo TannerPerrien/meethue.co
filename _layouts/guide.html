@@ -5,7 +5,9 @@ layout: default
 
     <div class="page-header">
         <h1>{{ page.title }}</h1>
-        <small><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time></small>
+        {% if page.renderDate == null or page.renderDate == true %}
+            <small><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time></small>
+        {% endif %}
     </div>
 
     <div class="post-content">

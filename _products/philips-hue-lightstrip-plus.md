@@ -12,6 +12,9 @@ features:
 - paint
 - sync_music
 - sync_movies
+categories:
+- bulb-color
+- mood
 description: 'For clarification, this is the 2nd gen lightstrip: i.e. the better,
   longer, brighter light strip. This is the most flexible light source imaginable.
   Shape it, attach it to any solid surface and extend it up to 33 feet by adding 40

@@ -9,6 +9,10 @@ features:
 - ambiance
 - automation
 - wellbeing
+categories:
+- kit
+- bulb-ambiance
+- controller
 description: Get started with the Philips Hue White Ambiance starter kit and enjoy
   natural white light for any moment of your day, from sunrise to sunset. Control
   via your smart device, the included wireless switch, and connect to wearables.

@@ -12,6 +12,8 @@ features:
 - paint
 - sync_music
 - sync_movies
+categories:
+- fixture, bulb-color
 description: Iconic shaped lights with LightDuo technology that combine functional
   and mood lighting in one award-winning design. The Beyond lineup goes beyond the
   bulb and offers fixtures with built in lighting that is ready to connect with Hue.

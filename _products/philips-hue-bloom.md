@@ -9,6 +9,10 @@ features:
 - paint
 - sync_music
 - sync_movies
+categories:
+- fixture
+- bulb-color
+- mood
 description: An award-winning lamp designed to create indirect ambient lighting, Philips
   Hue bloom stunningly projects beautiful colors and it blends in with any interior.
   The Bloom is easy to conceal while maintaining its ability to highlight a section

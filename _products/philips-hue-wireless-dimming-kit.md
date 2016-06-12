@@ -4,6 +4,10 @@ name: Philips Hue Wireless Dimming Kit
 features:
 - smart_control
 - dimming
+categories:
+- kit
+- bulb-white
+- controller
 description: The perfect pair. A clever wireless switch that works directly out of
   the box and a Philips Hue white lamp. No wires, no electrician, no installation
   needed. Unlike some of the other Hue switches, this switch is powered by a battery.

@@ -6,6 +6,9 @@ features:
 - security
 - schedules
 - dimming
+categories:
+- kit
+- bulb-white
 description: Get started with Philips Hue white bulbs and experience peace of mind
   by controlling your lights wherever you are.
 purchaseUrl: https://www.amazon.com/Philips-455303-White-Starter-Generation/dp/B014H2OZAC?tag=meethue-20

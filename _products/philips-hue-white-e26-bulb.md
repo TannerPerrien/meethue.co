@@ -6,6 +6,8 @@ features:
 - security
 - schedules
 - dimming
+categories:
+- bulb-white
 description: Include a Philips Hue white bulb in your Philips Hue system and experience
   high quality white light that you can dim smoothly. White bulbs like this are capable
   of dimming but do not offer the color options and color temperature settings that

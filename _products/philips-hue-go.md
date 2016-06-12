@@ -8,6 +8,9 @@ features:
 - automation
 - wellbeing
 - paint
+categories:
+- fixture
+- bulb-color
 description: The smart portable light that lets you light any moment, anywhere. Set
   the mood via the control on the product itself or use the Philips Hue app on your
   smart device.

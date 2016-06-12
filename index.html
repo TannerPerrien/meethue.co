@@ -3,6 +3,9 @@ layout: default
 title: Meet Hue - Your Guide to Philips Hue Smart Lights
 excerpt: Learn about Philips Hue lights. Read expert advice, comparison guides, smart home recipes, kitchen lighting, recessed lighting and more!
 ---
+{% assign guides = site.guides | where:"title", "Hue Product Comparison" %}
+{% assign productComparison = guides[0] %}
+
 <div class="row">
   <div class="col-md-12">
     <div class="page-header">
@@ -56,6 +59,7 @@ excerpt: Learn about Philips Hue lights. Read expert advice, comparison guides, 
     <div class="page-header">
       <h2 id="compare"><strong>Compare</strong> <small>Hue Products</small></h2>
     </div>
+    <p class="alert alert-success">Check out the <a href="{{ productComparison.url }}" title="Product Comparison Guide">Product Comparison Guide</a> for filtering options.</p>
     <div class="table-responsive">
       <table class="table table-hover hue-comparison">
         <thead>

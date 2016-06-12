@@ -3,6 +3,8 @@ order: 61
 name: Philips Hue Dimmer Switch
 features:
 - dimming
+categories:
+- controller
 description: A battery-powered dimmer for the Philips Hue system that controls your
   preferred light setting that you have configured in the Philips Hue app, without
   the use of your smart device.

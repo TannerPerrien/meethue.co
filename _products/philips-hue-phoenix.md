@@ -9,6 +9,9 @@ features:
 - ambiance
 - automation
 - wellbeing
+categories:
+- fixture
+- bulb-ambiance
 description: Set the right ambiance for any moment. Philips Hue phoenix produces a
   beautiful range of white light that can be changed from warm to cool white, and
   it can be brightened and dimmed. The Phoenix lineup goes beyond the bulb and offers

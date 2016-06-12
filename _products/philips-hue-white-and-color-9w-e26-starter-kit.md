@@ -12,6 +12,9 @@ features:
 - paint
 - sync_music
 - sync_movies
+categories:
+- kit
+- bulb-color
 description: This starter kit gets you going with the best of what Hue has to offer.
   A bridge and 3 color bulbs can set color and warmth to any scene in your home! Get
   started with Philips Hue white and color ambiance bulbs and experience high quality

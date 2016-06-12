@@ -9,6 +9,10 @@ features:
 - paint
 - sync_music
 - sync_movies
+categories:
+- fixture
+- bulb-color
+- mood
 description: A stylish lamp that sits on your desk, your shelf or the floor and washes
   your walls with beautiful colored light. The Iris is aesthetically pleasing and
   does a fine job of putting extra color in any part of your living space. This is

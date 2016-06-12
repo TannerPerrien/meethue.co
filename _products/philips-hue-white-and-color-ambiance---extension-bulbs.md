@@ -12,6 +12,9 @@ features:
 - paint
 - sync_music
 - sync_movies
+categories:
+- bulb-color
+- bulb-ambiance
 description: If you're looking to add additional bulbs to your lighting lineup, you
   have options! Include a Philips Hue white and color ambiance bulb in your Philips
   Hue system and experience high quality white and colored light that offers you endless
