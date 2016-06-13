@@ -1,28 +1,30 @@
 <script>
-$('#navbar-filter li').click(function(){
-    $('#navbar-filter').collapse('hide');
-});
+$(function() {
+    $('#navbar-filter li').click(function(){
+        $('#navbar-filter').collapse('hide');
+    });
 
-var $grid = $('.grid').isotope({
-  itemSelector: '.grid-item',
-  getSortData: {
-    name: '.name',
-    category: '[data-category]'
-  },
-  masonry: {
-    columnWidth: '.grid-sizer',
-    'percentPosition': true
-  }
-});
+    var $grid = $('.grid').isotope({
+      itemSelector: '.grid-item',
+      getSortData: {
+        name: '.name',
+        category: '[data-category]'
+      },
+      masonry: {
+        columnWidth: '.grid-sizer',
+        'percentPosition': true
+      }
+    });
 
-$('#filter').on( 'click', 'li', function() {
-  var item = $(this);
-  var filterValue = item.attr('data-filter');
-  $grid.isotope({ filter: filterValue });
+    $('#filter').on( 'click', 'li', function() {
+      var item = $(this);
+      var filterValue = item.attr('data-filter');
+      $grid.isotope({ filter: filterValue });
 
-  $('#filter li').removeClass('active');
-  item.addClass('active');
+      $('#filter li').removeClass('active');
+      item.addClass('active');
 
-  return false;
+      return false;
+    });
 });
 </script>
