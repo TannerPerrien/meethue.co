@@ -3,7 +3,7 @@ title: Convert Hue Tap to a Light Switch
 date: 2016-06-28
 excerpt: Learn how to swap the Hue Tap's hardware into a regular light switch. This is perfect hack for blending a battery-free Hue switch into your home's decore.
 og:
-  image: /images/hacks/convert-hue-tap.png
+  image-rel: /images/hacks/convert-hue-tap.png
 ---
 
 {% assign products = site.products | where:"name", "Philips Hue Tap" %}
