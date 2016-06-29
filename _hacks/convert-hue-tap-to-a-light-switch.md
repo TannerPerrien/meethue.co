@@ -10,6 +10,8 @@ excerpt: Learn how to swap the Hue Tap's hardware into a regular light switch. T
 Learn how to swap the [Hue Tap's][tap] hardware into a regular light switch. This is perfect hack for blending a battery-free Hue switch into your home's decore.
 {: .lead}
 
+<img src="/images/hacks/convert-hue-tap.png" class="img-responsive" alt="Convert Hue Tap to Switch" />
+
 The Hue Tap uses a an [EnOcean PTM 215Z][ptm215] rolling-code switch module along with a [ECO 200][eco200] energy converter to transmit button presses to the Hue Bridge. You can detach the EnOcean hardware from the Tap and swap it with a compatible wall-installed switch like the [Leviton WSS0S-D2][leviton] (US) or the [Eltako Funktaster, FT55-RW][eltako] (Germany).
 
 A few videos help demonstrate how simple this is:
