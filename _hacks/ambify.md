@@ -3,6 +3,8 @@ title: Ambify - Realtime Music Visualizer
 date: 2016-05-11
 excerpt: Turn Music into Light with Mac or iOS with this Hue hack! You can play music on your computer directly or leverage Airplay to make big noise on your stereo!
 hackUrl: http://getambify.com/
+og:
+  image: http://getambify.com/images/logo_mac.png
 ---
 
 <div class="row">
