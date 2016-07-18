@@ -3,6 +3,8 @@ title: "3 Ways to Improve Health with Light"
 date: 2016-07-16
 order: 5
 excerpt: Find out how you can use smart home lighting to improve your health during normal activities like sleep, reading, and watching TV.
+og:
+  image-rel: /images/guides/bias-light.png
 sitemap:
   lastmod: 2016-07-16
 ---
