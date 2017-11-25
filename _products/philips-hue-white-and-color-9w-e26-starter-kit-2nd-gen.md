@@ -1,6 +1,6 @@
 ---
-order: 25
-name: Philips Hue White and Color 9W E26 Starter kit
+order: 26
+name: Philips Hue White and Color 9W E26 Starter kit (2nd Gen)
 features:
 - smart_control
 - security
@@ -15,12 +15,20 @@ features:
 categories:
 - kit
 - bulb-color
-description: This starter kit gets you going with the best of what Hue has to offer.
-  A bridge and 3 color bulbs can set color and warmth to any scene in your home! Get
-  started with Philips Hue white and color ambiance bulbs and experience high quality
-  white and colored light that offers you endless possibilities.
+description: <a href="/products/philips-hue-white-and-color-9w-e26-starter-kit-3rd-gen/">[3rd
+  gen kit can be found here]</a> This starter kit is a previous generation kit, which
+  you may be able to pick up for a deal if you don't care about the more vibrant colors
+  in the 3rd gen kit. This kit comes with a bridge and 3 color bulbs that can set
+  color and warmth to any scene in your home! Get started with Philips Hue white and
+  color ambiance bulbs and experience high quality white and colored light that offers
+  you endless possibilities.
 purchaseUrl: https://www.amazon.com/Philips-456194-Ambiance-Starter-Generation/dp/B016H0QSGG?tag=meethue-20
 sections:
+- name: 2nd vs 3rd Generation
+  content: The 3rd gen Hue lights produce colors that are more vibrant compared to
+    their 2nd gen predecessors. This is most apparent when producing blues and greens.
+    The 2nd gen bulbs produced teal-like blues and lime-like greens. The 3rd gen bulbs
+    equivalents produce colors that are true to the spectrum.
 - name: Color vs Ambiance vs White
   content: The Hue lineup offers three different light bulb options. Color bulbs allow
     you to pick any color you want. Ambiance bulbs allow you to pick from many different
@@ -33,10 +41,6 @@ sections:
   content: All lights and bridges are compatible. For example, 1st gen lights will
     work with a 2nd gen bridge. Likewise, 2nd gen lights will work with a 1st gen
     bridge.
-- name: What is E26?
-  content: E26 is an Edison Screw light bulb mount common in North America and continental
-    Europe. You can read more about it in the <a href="/guides/philips-hue-light-bulb-types/">Light
-    Bulb Types Guide</a>.
 specs:
 - name: Bulb
   items:
@@ -64,9 +68,12 @@ specs:
   - 'All shades of white, from warm to cold color temperatures: CCT range 2000-6500K'
   - Dimming only via RF down to 5% (no external dimmer)
   - Beam angle –160° ± 20°
-title: Philips Hue White and Color 9W E26 Starter kit
-excerpt: This starter kit gets you going with the best of what Hue has to offer. A
-  bridge and 3 color bulbs can set color and warmth to any scene in your home! Get
-  started with Philips Hue white and color ambiance bulbs and experience high quality
-  white and colored light that offers you endless possibilities.
+title: Philips Hue White and Color 9W E26 Starter kit (2nd Gen)
+excerpt: <a href="/products/philips-hue-white-and-color-9w-e26-starter-kit-3rd-gen/">[3rd
+  gen kit can be found here]</a> This starter kit is a previous generation kit, which
+  you may be able to pick up for a deal if you don't care about the more vibrant colors
+  in the 3rd gen kit. This kit comes with a bridge and 3 color bulbs that can set
+  color and warmth to any scene in your home! Get started with Philips Hue white and
+  color ambiance bulbs and experience high quality white and colored light that offers
+  you endless possibilities.
 ---

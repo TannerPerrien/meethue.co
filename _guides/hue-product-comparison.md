@@ -48,7 +48,9 @@ New to Hue? Take a peek at the **[Getting Started Guide][getting-started]** wher
   <div class="grid-item col-sm-6 col-md-4 {{ product.categories | join: ' ' }}">
     <div class="grid-item-content">
       <div class="thumbnail">
-        <img class='img-responsive' src='/images/products/{{ product.name | slugify }}.png' alt="{{ product.name }}" />
+        <a href="{{ product.url }}">
+          <img class='img-responsive' src='/images/products/{{ product.name | slugify }}.png' alt="{{ product.name }}" />
+        </a>
         <div class="caption">
           <h3>{{ product.name }}</h3>
           <p>{{ product.description }}</p>

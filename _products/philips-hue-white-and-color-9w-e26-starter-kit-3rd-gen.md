@@ -1,6 +1,6 @@
 ---
-order: 80
-name: Philips Hue white and color ambiance - Extension Bulbs
+order: 25
+name: Philips Hue White and Color 9W E26 Starter kit (3rd Gen)
 features:
 - smart_control
 - security
@@ -13,14 +13,19 @@ features:
 - sync_music
 - sync_movies
 categories:
+- kit
 - bulb-color
-- bulb-ambiance
-description: If you're looking to add additional bulbs to your lighting lineup, you
-  have options! Include a Philips Hue white and color ambiance bulb in your Philips
-  Hue system and experience high quality white and colored light that offers you endless
-  possibilities.
-purchaseUrl: https://www.amazon.com/Philips-Generation-Equivalent-Compatible-Assistant/dp/B01KJYSOHM?tag=meethue-20
+description: This starter kit gets you going with the best of what Hue has to offer.
+  A bridge and 4 color bulbs can set color and warmth to any scene in your home! This
+  3rd generation Philips Hue white and color ambiance bulbs produce true blues and
+  greens, unlike the 2nd generation bulbs.
+purchaseUrl: https://www.amazon.com/Philips-464479-Equivalent-Ambiance-Generation/dp/B07351P1JK?tag=meethue-20
 sections:
+- name: 2nd vs 3rd Generation
+  content: The 3rd gen Hue lights produce colors that are more vibrant compared to
+    their 2nd gen predecessors. This is most apparent when producing blues and greens.
+    The 2nd gen bulbs produced teal-like blues and lime-like greens. The 3rd gen bulbs
+    equivalents produce colors that are true to the spectrum.
 - name: Color vs Ambiance vs White
   content: The Hue lineup offers three different light bulb options. Color bulbs allow
     you to pick any color you want. Ambiance bulbs allow you to pick from many different
@@ -31,8 +36,8 @@ sections:
     Lighting Guide</a>.
 - name: Light/Bridge Compatibility
   content: All lights and bridges are compatible. For example, 1st gen lights will
-    work with a 2nd gen bridge. Likewise, 2nd gen lights will work with a 1st gen
-    bridge.
+    work with a 2nd gen bridge. Likewise, 2nd and 3rd gen lights will work with a
+    1st gen bridge.
 specs:
 - name: Bulb
   items:
@@ -60,9 +65,11 @@ specs:
   - 'All shades of white, from warm to cold color temperatures: CCT range 2000-6500K'
   - Dimming only via RF down to 5% (no external dimmer)
   - Beam angle –160° ± 20°
-title: Philips Hue white and color ambiance - Extension Bulbs
-excerpt: If you're looking to add additional bulbs to your lighting lineup, you have
-  options! Include a Philips Hue white and color ambiance bulb in your Philips Hue
-  system and experience high quality white and colored light that offers you endless
-  possibilities.
+redirect_from:
+- "/products/philips-hue-white-and-color-9w-e26-starter-kit/"
+title: Philips Hue White and Color 9W E26 Starter kit (3rd Gen)
+excerpt: This starter kit gets you going with the best of what Hue has to offer. A
+  bridge and 4 color bulbs can set color and warmth to any scene in your home! This
+  3rd generation Philips Hue white and color ambiance bulbs produce true blues and
+  greens, unlike the 2nd generation bulbs.
 ---

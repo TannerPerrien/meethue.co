@@ -1,5 +1,5 @@
 ---
-order: 26
+order: 27
 name: Philips Hue White Ambiance starter kit A19
 features:
 - smart_control

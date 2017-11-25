@@ -10,7 +10,7 @@ sitemap:
 {% assign products = site.products | where:"name", "Philips Hue Bridge" %}
 {% assign bridge = products[0] %}
 
-{% assign products = site.products | where:"name", "Philips Hue White and Color 9W E26 Starter kit" %}
+{% assign products = site.products | where:"name", "Philips Hue White and Color 9W E26 Starter kit (3rd Gen)" %}
 {% assign colorStarter = products[0] %}
 {% assign products = site.products | where:"name", "Philips Hue white and color ambiance - Extension Bulbs" %}
 {% assign colorBulbs = products[0] %}
@@ -139,8 +139,12 @@ If you found this guide helpful or have any questions, please let us know in the
 
 <div class="list-group">
   <a class="list-group-item">
-    <h4 class="list-group-item-heading">Do 2nd gen bulbs work with the 1st gen Bridge?</h4>
+    <h4 class="list-group-item-heading">Do 2nd and 3rd gen bulbs work with the 1st gen Bridge?</h4>
     <p class="list-group-item-text">Yes, all Hue bulbs work with either gen Bridge.</p>
+  </a>
+  <a class="list-group-item">
+    <h4 class="list-group-item-heading">What is the difference between 2nd and 3rd gen bulbs?</h4>
+    <p class="list-group-item-text">The 3rd gen Hue lights produce colors that are more vibrant compared to their 2nd gen predecessors. This is most apparent when producing blues and greens. The 2nd gen bulbs produced teal-like blues and lime-like greens. The 3rd gen bulbs equivalents produce true blues and greens.</p>
   </a>
   <a class="list-group-item">
     <h4 class="list-group-item-heading">Is the 2nd gen Bridge more powerful than the 1st gen?</h4>
