@@ -8,7 +8,7 @@ url: "https://meethue.co"
 twitter_username:
 github_username:
 
-gems:
+plugins:
   - jekyll-redirect-from
 
 # Build settings
